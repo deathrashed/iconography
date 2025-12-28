@@ -1,0 +1,15 @@
+# Image files
+*.png binary
+*.icns binary
+*.eps binary
+*.webp binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+
+# Vector files (text-based)
+*.svg text eol=lf
+
+# Documentation
+*.md text eol=lf
+
