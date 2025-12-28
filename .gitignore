@@ -108,6 +108,7 @@ Icon
 **/CLAUDE.MD
 /utilities/scripts
 /utilities/keyboard-maestro-actions
+/utilities/applications
 # macOS
 .DS_Store
 .AppleDouble
