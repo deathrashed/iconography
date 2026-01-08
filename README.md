@@ -110,19 +110,19 @@ Icons/
 | Category | Count | Description | Preview |
 |----------|-------|-------------|---------|
 | **Library (Developer)** | 1,877 | Languages, frameworks, tools, IDEs (PNG) | <img src="color/library/png/developer/github.png" width="24" height="24" alt="GitHub"> <img src="color/library/png/developer/vscode.png" width="24" height="24" alt="VSCode"> <img src="color/library/png/developer/python.png" width="24" height="24" alt="Python"> |
-| **Library (Software)** | 1,119 | Desktop applications & utilities (PNG) | <img src="color/library/png/software/chrome.png" width="24" height="24" alt="Chrome"> <img src="color/library/png/software/firefox.png" width="24" height="24" alt="Firefox"> |
+| **Library (Software)** | 1,119 | Desktop applications & utilities (PNG) | <img src="color/library/png/software/discord.png" width="24" height="24" alt="Discord"> <img src="color/library/png/browser/chrome.png" width="24" height="24" alt="Chrome"> |
 | **Library (SVG)** | 2,000+ | Vector versions of library icons | <img src="color/library/svg/developer/github.svg" width="24" height="24" alt="GitHub SVG"> |
 | **Self-Hosted** | 1,030 | Self-hosted service icons | <img src="color/self-hosted/nextcloud.png" width="24" height="24" alt="Nextcloud"> |
 | **Web Services** | 1,400+ | Web service icons (PNG + SVG) | <img src="color/web/png/chrome.png" width="24" height="24" alt="Chrome"> <img src="color/web/svg/chrome.svg" width="24" height="24" alt="Chrome SVG"> |
-| **Papirus** | 2,400+ | Papirus icon theme (apps, devices, mimetypes) | <img src="color/papirus/apps/github.svg" width="24" height="24" alt="Papirus GitHub"> |
+| **Papirus** | 2,400+ | Papirus icon theme (apps, devices, mimetypes) | <img src="color/papirus/apps/svg/github.svg" width="24" height="24" alt="Papirus GitHub"> |
 | **Flags** | 262 | Country flags | <img src="color/flags/us.png" width="24" height="24" alt="US Flag"> |
 | **AI** | 50+ | ChatGPT, Claude, Copilot, Midjourney... | <img src="misc/ai/colorful/chatgpt.svg" width="24" height="24" alt="ChatGPT"> <img src="misc/ai/colorful/claude.svg" width="24" height="24" alt="Claude"> |
-| **Social** | 75+ | Twitter, Discord, Reddit, LinkedIn... | <img src="color/library/png/social/twitter.png" width="24" height="24" alt="Twitter"> <img src="color/library/png/social/discord.png" width="24" height="24" alt="Discord"> |
+| **Social** | 75+ | Twitter, Discord, Reddit, LinkedIn... | <img src="color/library/png/social/twitter.png" width="24" height="24" alt="Twitter"> <img src="color/library/png/software/discord.png" width="24" height="24" alt="Discord"> |
 | **Browser** | 20+ | Chrome, Firefox, Arc, Brave, Safari... | <img src="color/library/png/browser/chrome.png" width="24" height="24" alt="Chrome"> <img src="color/library/png/browser/firefox.png" width="24" height="24" alt="Firefox"> |
 | **Database** | 68+ | PostgreSQL, MongoDB, Redis, MySQL... | <img src="color/library/png/database/postgresql.png" width="24" height="24" alt="PostgreSQL"> <img src="color/library/png/database/mongodb.png" width="24" height="24" alt="MongoDB"> |
 | **Design** | 45+ | Figma, Adobe suite, Sketch, Canva... | <img src="color/library/png/design/figma.png" width="24" height="24" alt="Figma"> <img src="color/library/png/design/sketch.png" width="24" height="24" alt="Sketch"> |
-| **Crypto** | 39+ | Bitcoin, Ethereum, Solana, wallets... | <img src="color/library/png/crypto/bitcoin.png" width="24" height="24" alt="Bitcoin"> <img src="color/library/png/crypto/ethereum.png" width="24" height="24" alt="Ethereum"> |
-| **OS** | 109 | Operating system icons | <img src="color/os/macos.png" width="24" height="24" alt="macOS"> |
+| **Crypto** | 39+ | Bitcoin, Ethereum, Solana, wallets... | <img src="color/library/png/crypto/btc.png" width="24" height="24" alt="Bitcoin"> <img src="color/library/png/crypto/eth.png" width="24" height="24" alt="Ethereum"> |
+| **OS** | 109 | Operating system icons | <img src="color/os/os_macos.png" width="24" height="24" alt="macOS"> |
 
 ### Plain Icons
 
@@ -132,10 +132,10 @@ Icons/
 | **Simple Icons** | 3,097 | SVG | Brand logos | <img src="plain/simple/github.svg" width="24" height="24" alt="GitHub"> <img src="plain/simple/python.svg" width="24" height="24" alt="Python"> <img src="plain/simple/javascript.svg" width="24" height="24" alt="JavaScript"> <img src="plain/simple/react.svg" width="24" height="24" alt="React"> |
 | **Logos** | 6,196 | PNG + SVG | Developer brands | <img src="plain/logos/svg/github.svg" width="24" height="24" alt="GitHub Logo"> |
 | **Font Awesome** | 4,074 | PNG + SVG | Brands, regular, solid | <img src="plain/font-awesome/brands/svg/github.svg" width="24" height="24" alt="Font Awesome"> |
-| **Boxicons** | 3,268 | PNG + SVG | Regular, solid, logos | <img src="plain/boxicons/logos/svg/github.svg" width="24" height="24" alt="Boxicons"> |
+| **Boxicons** | 3,268 | PNG + SVG | Regular, solid, logos | <img src="plain/boxicons/logos/svg/bxl-github.svg" width="24" height="24" alt="Boxicons"> |
 | **Remix** | 2,860 | PNG + SVG | Line & fill | <img src="plain/remix/logos/svg/github-fill.svg" width="24" height="24" alt="Remix"> |
 | **Lucide** | 1,447 | SVG | Clean line icons | <img src="plain/lucide/github.svg" width="24" height="24" alt="Lucide"> |
-| **Coolicons** | 1,769 | PNG + SVG | Modern line icons | <img src="plain/coolicons/svg/github.svg" width="24" height="24" alt="Coolicons"> |
+| **Coolicons** | 1,769 | PNG + SVG | Modern line icons | <img src="plain/coolicons/svg/System/Code.svg" width="24" height="24" alt="Coolicons"> |
 | **Octicons** | 1,208 | PNG + SVG | GitHub style | <img src="plain/octicons/svg/logo-github-16.svg" width="24" height="24" alt="Octicons"> |
 | **RPG Awesome** | 990 | PNG + SVG | Gaming & RPG icons | <img src="plain/rpg-awesome/svg/fire-symbol.svg" width="24" height="24" alt="RPG"> |
 | **Feather** | 574 | PNG + SVG | Minimal strokes | <img src="plain/feather/svg/github.svg" width="24" height="24" alt="Feather"> |
@@ -146,10 +146,10 @@ Icons/
 
 | Category | Count | Formats | Preview |
 |----------|-------|---------|---------|
-| **App Icons** | 2,500+ | `.icns` `.png` | <img src="macos/apps/png/visual-studio-code.png" width="24" height="24" alt="VSCode"> <img src="macos/apps/png/vscode1.png" width="24" height="24" alt="VSCode Alt"> |
+| **App Icons** | 2,500+ | `.icns` `.png` | <img src="macos/apps/png/macOS Icon Gallery/vscode1.png" width="24" height="24" alt="VSCode"> <img src="macos/apps/png/macOS Icon Gallery/vscode2.png" width="24" height="24" alt="VSCode Alt"> |
 | **Branded Folders** | 3,500+ | `.icns` `.png` | <img src="macos/folders/branded/png/github.png" width="24" height="24" alt="GitHub Folder"> |
 | **Color Folders** | 270+ | `.icns` | <img src="macos/folders/colors/flags/russia.png" width="24" height="24" alt="Color Folder"> |
-| **Default Folders** | 90+ | `.icns` `.png` | <img src="macos/folders/default/png/folder.png" width="24" height="24" alt="Default Folder"> |
+| **Default Folders** | 90+ | `.icns` `.png` | <img src="macos/folders/default/png/r10.png" width="24" height="24" alt="Default Folder"> |
 
 ### Linux Icon Themes
 
