@@ -1,4 +1,4 @@
-# ◈ Icons
+# <img src="./color/misc/pupil.png" width="" height="55" alt="Pupil"> Icons
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 </div>
 
-## 📂 Structure
+## <img src="./color/misc/floppy.png" width="" height="40" alt="Floppy"> Structure
 
 <details>
 <summary><strong>Click to expand directory structure</strong></summary>
@@ -103,7 +103,7 @@ Icons/
 
 ---
 
-## 🎨 Collections
+##  <img src="./color/misc/chip.png" width="" height="40" alt="Chip">Collections
 
 ### Color Icons
 
@@ -112,7 +112,7 @@ Icons/
 | **Library (Developer)** | 1,877 | Languages, frameworks, tools, IDEs (PNG) | <img src="color/library/png/developer/nodejs.png" width="24" height="24" alt="Node.js"> <img src="color/library/png/developer/docker.png" width="24" height="24" alt="Docker"> <img src="color/library/png/developer/typescript.png" width="24" height="24" alt="TypeScript"> <img src="color/library/png/developer/react.png" width="24" height="24" alt="React"> |
 | **Library (Software)** | 1,119 | Desktop applications & utilities (PNG) | <img src="color/library/png/software/notion.png" width="24" height="24" alt="Notion"> <img src="color/library/png/software/slack.png" width="24" height="24" alt="Slack"> <img src="color/library/png/software/vscode.png" width="24" height="24" alt="VSCode"> <img src="color/library/png/software/spotify.png" width="24" height="24" alt="Spotify"> |
 | **Library (SVG)** | 2,000+ | Vector versions of library icons | <img src="color/library/svg/developer/kubernetes.svg" width="24" height="24" alt="Kubernetes"> <img src="color/library/svg/developer/docker.svg" width="24" height="24" alt="Docker"> <img src="color/library/svg/developer/python.svg" width="24" height="24" alt="Python"> <img src="color/library/svg/developer/react.svg" width="24" height="24" alt="React"> |
-| **Self-Hosted** | 1,030 | Self-hosted service icons | <img src="color/self-hosted/nextcloud.png" width="24" height="24" alt="Nextcloud"> <img src="color/self-hosted/jellyfin.png" width="24" height="24" alt="Jellyfin"> <img src="color/self-hosted/homeassistant.png" width="24" height="24" alt="Home Assistant"> <img src="color/self-hosted/pihole.png" width="24" height="24" alt="Pi-hole"> |
+| **Self-Hosted** | 1,030 | Self-hosted service icons | <img src="color/self-hosted/nextcloud.png" width="24" height="24" alt="Nextcloud"> <img src="color/self-hosted/jellyfin.png" width="24" height="24" alt="Jellyfin"> <img src="color/self-hosted/music-service.png" width="24" height="24" alt="Music Service"> <img src="color/self-hosted/filepizza.png" width="24" height="24" alt="Filepizza"> |
 | **Web Services** | 1,400+ | Web service icons (PNG + SVG) | <img src="color/web/png/chrome.png" width="24" height="24" alt="Chrome"> <img src="color/web/svg/firefox.svg" width="24" height="24" alt="Firefox"> <img src="color/web/png/edge.png" width="24" height="24" alt="Edge"> <img src="color/web/svg/opera.svg" width="24" height="24" alt="Opera"> |
 | **Papirus** | 2,400+ | Papirus icon theme (apps, devices, mimetypes) | <img src="color/papirus/apps/svg/github.svg" width="24" height="24" alt="Papirus"> <img src="color/papirus/apps/svg/dropbox.svg" width="24" height="24" alt="Dropbox"> <img src="color/papirus/apps/svg/vscode-insiders.svg" width="24" height="24" alt="VSCode"> <img src="color/papirus/apps/svg/plexamp.svg" width="24" height="24" alt="Plexamp"> |
 | **Flags** | 262 | Country flags | <img src="color/flags/us.png" width="24" height="24" alt="US Flag"> <img src="color/flags/gb.png" width="24" height="24" alt="UK Flag"> <img src="color/flags/ca.png" width="24" height="24" alt="Canada Flag"> <img src="color/flags/de.png" width="24" height="24" alt="Germany Flag"> |
@@ -130,28 +130,28 @@ Icons/
 |-----|-------|--------|-------|---------|
 | **Tabler** | 5,219 | PNG + SVG | Outline & filled | <img src="plain/tabler/svg/outline/brand-github.svg" width="24" height="24" alt="Tabler"> <img src="plain/tabler/svg/outline/brand-docker.svg" width="24" height="24" alt="Docker"> <img src="plain/tabler/svg/outline/brand-react.svg" width="24" height="24" alt="React"> <img src="plain/tabler/svg/outline/brand-python.svg" width="24" height="24" alt="Python"> |
 | **Simple Icons** | 3,097 | SVG | Brand logos | <img src="plain/simple/kubernetes.svg" width="24" height="24" alt="Kubernetes"> <img src="plain/simple/tailwindcss.svg" width="24" height="24" alt="Tailwind"> <img src="plain/simple/vercel.svg" width="24" height="24" alt="Vercel"> <img src="plain/simple/redis.svg" width="24" height="24" alt="Redis"> |
-| **Logos** | 6,196 | PNG + SVG | Developer brands | <img src="plain/logos/svg/kubernetes.svg" width="24" height="24" alt="Kubernetes"> <img src="plain/logos/svg/docker.svg" width="24" height="24" alt="Docker"> <img src="plain/logos/svg/react.svg" width="24" height="24" alt="React"> <img src="plain/logos/svg/python.svg" width="24" height="24" alt="Python"> |
+| **Logos** | 6,196 | PNG + SVG | Developer brands | <img src="plain/logos/svg/kubernetes.svg" width="24" height="24" alt="Kubernetes"> <img src="plain/car-badges/png/porsche.png" width="24" height="24" alt="Porsche"> <img src="./plain/logos/svg/react.svg" width="24" height="24" alt="React"> <img src="plain/logos/svg/python.svg" width="24" height="24" alt="Python"> |
 | **Font Awesome** | 4,074 | PNG + SVG | Brands, regular, solid | <img src="plain/font-awesome/brands/svg/docker.svg" width="24" height="24" alt="Docker"> <img src="plain/font-awesome/brands/svg/react.svg" width="24" height="24" alt="React"> <img src="plain/font-awesome/brands/svg/python.svg" width="24" height="24" alt="Python"> <img src="plain/font-awesome/brands/svg/node-js.svg" width="24" height="24" alt="Node.js"> |
 | **Boxicons** | 3,268 | PNG + SVG | Regular, solid, logos | <img src="plain/boxicons/logos/svg/bxl-react.svg" width="24" height="24" alt="React"> <img src="plain/boxicons/logos/svg/bxl-nodejs.svg" width="24" height="24" alt="Node.js"> <img src="plain/boxicons/logos/svg/bxl-python.svg" width="24" height="24" alt="Python"> <img src="plain/boxicons/logos/svg/bxl-docker.svg" width="24" height="24" alt="Docker"> |
-| **Remix** | 2,860 | PNG + SVG | Line & fill | <img src="plain/remix/logos/svg/nodejs-fill.svg" width="24" height="24" alt="Node.js"> <img src="plain/remix/logos/svg/reactjs-fill.svg" width="24" height="24" alt="React"> <img src="plain/remix/logos/svg/python-fill.svg" width="24" height="24" alt="Python"> <img src="plain/remix/logos/svg/docker-fill.svg" width="24" height="24" alt="Docker"> |
+| **Remix** | 2,860 | PNG + SVG | Line & fill | <img src="plain/remix/finance/gift-line.png" width="24" height="24" alt="Gift"> <img src="plain/remix/finance/funds-fill.png" width="24" height="24" alt="Funds"> <img src="plain/remix/logos/apple-fill.svg" width="24" height="24" alt="Apple"> <img src="./plain/remix/logos/discord-line.svg" width="24" height="24" alt="Discord"> |
 | **Lucide** | 1,447 | SVG | Clean line icons | <img src="plain/lucide/home.svg" width="24" height="24" alt="Home"> <img src="plain/lucide/search.svg" width="24" height="24" alt="Search"> <img src="plain/lucide/settings.svg" width="24" height="24" alt="Settings"> <img src="plain/lucide/user.svg" width="24" height="24" alt="User"> |
 | **Coolicons** | 1,769 | PNG + SVG | Modern line icons | <img src="plain/coolicons/svg/System/Code.svg" width="24" height="24" alt="Code"> <img src="plain/coolicons/svg/System/Monitor.svg" width="24" height="24" alt="Monitor"> <img src="plain/coolicons/svg/System/Save.svg" width="24" height="24" alt="Save"> <img src="plain/coolicons/svg/System/Terminal.svg" width="24" height="24" alt="Terminal"> |
-| **Octicons** | 1,208 | PNG + SVG | GitHub style | <img src="plain/octicons/svg/home-16.svg" width="24" height="24" alt="Home"> <img src="plain/octicons/svg/search-16.svg" width="24" height="24" alt="Search"> <img src="plain/octicons/svg/settings-16.svg" width="24" height="24" alt="Settings"> <img src="plain/octicons/svg/mark-github-16.svg" width="24" height="24" alt="GitHub"> |
-| **RPG Awesome** | 990 | PNG + SVG | Gaming & RPG icons | <img src="plain/rpg-awesome/svg/fire-symbol.svg" width="24" height="24" alt="Fire"> <img src="plain/rpg-awesome/svg/sword.svg" width="24" height="24" alt="Sword"> <img src="plain/rpg-awesome/svg/shield.svg" width="24" height="24" alt="Shield"> <img src="plain/rpg-awesome/svg/potion.svg" width="24" height="24" alt="Potion"> |
+| **Octicons** | 1,208 | PNG + SVG | GitHub style | <img src="plain/octicons/svg/home-16.svg" width="24" height="24" alt="Home"> <img src="plain/octicons/svg/search-16.svg" width="24" height="24" alt="Search"> <img src="plain/octicons/svg/plug-16.svg" width="24" height="24" alt="Settings"> <img src="plain/octicons/svg/mark-github-16.svg" width="24" height="24" alt="GitHub"> |
+| **RPG Awesome** | 990 | PNG + SVG | Gaming & RPG icons | <img src="plain/rpg-awesome/acorn.svg" width="24" height="24" alt="Fire"> <img src="plain/rpg-awesome/bleeding-eye.svg" width="24" height="24" alt="Sword"> <img src="plain/rpg-awesome/boomerang.svg" width="24" height="24" alt="Shield"> <img src="plain/rpg-awesome/broken-skull.svg" width="24" height="24" alt="Potion"> |
 | **Feather** | 574 | PNG + SVG | Minimal strokes | <img src="plain/feather/svg/home.svg" width="24" height="24" alt="Home"> <img src="plain/feather/svg/search.svg" width="24" height="24" alt="Search"> <img src="plain/feather/svg/settings.svg" width="24" height="24" alt="Settings"> <img src="plain/feather/svg/user.svg" width="24" height="24" alt="User"> |
-| **Brew** | 568 | PNG + SVG | Homebrew package icons | <img src="plain/brew/github.png" width="24" height="24" alt="GitHub"> <img src="plain/brew/nodejs.png" width="24" height="24" alt="Node.js"> <img src="plain/brew/python.png" width="24" height="24" alt="Python"> <img src="plain/brew/docker.png" width="24" height="24" alt="Docker"> |
-| **Car Badges** | 172 | PNG + SVG | Car manufacturer logos | <img src="plain/car-badges/svg/tesla.svg" width="24" height="24" alt="Tesla"> <img src="plain/car-badges/svg/bmw.svg" width="24" height="24" alt="BMW"> <img src="plain/car-badges/svg/mercedes.svg" width="24" height="24" alt="Mercedes"> <img src="plain/car-badges/svg/audi.svg" width="24" height="24" alt="Audi"> |
+| **Brew** | 568 | PNG + SVG | Homebrew package icons | <img src="plain/brew/github.png" width="24" height="24" alt="GitHub"> <img src="plain/brew/earth.png" width="24" height="24" alt="Node.js"> <img src="plain/brew/flame.png" width="24" height="24" alt="Python"> <img src="plain/brew/cloud.png" width="24" height="24" alt="Docker"> |
+| **Car Badges** | 172 | PNG + SVG | Car manufacturer logos | <img src="plain/car-badges/svg/tesla.svg" width="24" height="24" alt="Tesla"> <img src="plain/car-badges/svg/bmw.svg" width="24" height="24" alt="BMW"> <img src="plain/car-badges/svg/ferrari.svg" width="24" height="24" alt="Mercedes"> <img src="plain/car-badges/svg/audi.svg" width="24" height="24" alt="Audi"> |
 
-### macOS Assets
+### <img src="./color/misc/apple.png" width="" height="40" alt="Apple">macOS Assets
 
 | Category | Count | Formats | Preview |
 |----------|-------|---------|---------|
-| **App Icons** | 2,500+ | `.icns` `.png` | <img src="macos/apps/png/macOS Icon Gallery/vscode1.png" width="24" height="24" alt="VSCode"> <img src="macos/apps/png/macOS Icon Gallery/vscode2.png" width="24" height="24" alt="VSCode Alt"> <img src="macos/apps/png/macOS Icon Gallery/chrome.png" width="24" height="24" alt="Chrome"> <img src="macos/apps/png/macOS Icon Gallery/firefox.png" width="24" height="24" alt="Firefox"> |
-| **Branded Folders** | 3,500+ | `.icns` `.png` | <img src="macos/folders/branded/png/python.png" width="24" height="24" alt="Python"> <img src="macos/folders/branded/png/nodejs.png" width="24" height="24" alt="Node.js"> <img src="macos/folders/branded/png/docker.png" width="24" height="24" alt="Docker"> <img src="macos/folders/branded/png/react.png" width="24" height="24" alt="React"> |
-| **Color Folders** | 270+ | `.icns` | <img src="macos/folders/colors/flags/russia.png" width="24" height="24" alt="Russia"> <img src="macos/folders/colors/flags/us.png" width="24" height="24" alt="US"> <img src="macos/folders/colors/flags/gb.png" width="24" height="24" alt="UK"> <img src="macos/folders/colors/flags/ca.png" width="24" height="24" alt="Canada"> |
-| **Default Folders** | 90+ | `.icns` `.png` | <img src="macos/folders/default/png/r10.png" width="24" height="24" alt="Folder 1"> <img src="macos/folders/default/png/r11.png" width="24" height="24" alt="Folder 2"> <img src="macos/folders/default/png/y5.png" width="24" height="24" alt="Folder 3"> <img src="macos/folders/default/png/y6.png" width="24" height="24" alt="Folder 4"> |
+| **App Icons** | 2,500+ | `.icns` `.png` | <img src="macos/apps/png/macOS Icon Gallery/winamp.png" width="24" height="24" alt="VSCode"> <img src="macos/apps/png/macOS Icon Gallery/weather-mini.png" width="24" height="24" alt="VSCode Alt"> <img src="macos/apps/png/macOS Icon Gallery/untitled-goose-game.png" width="24" height="24" alt="Chrome"> <img src="macos/apps/png/macOS Icon Gallery/toyviewer.png" width="24" height="24" alt="Firefox"> |
+| **Branded Folders** | 3,500+ | `.icns` `.png` | <img src="macos/folders/branded/png/python.png" width="24" height="24" alt="Python"> <img src="macos/folders/branded/png/chupachups.png" width="24" height="24" alt="Node.js"> <img src="macos/folders/branded/png/fifa.png" width="24" height="24" alt="Docker"> <img src="macos/folders/branded/png/react.png" width="24" height="24" alt="React"> |
+| **Color Folders** | 270+ | `.icns` | <img src="./macos/folders/misc/png/linux-tux-fill.png" width="24" height="24" alt="Russia"> <img src="./macos/folders/misc/png/misc-supreme.png" width="24" height="24" alt="US"> <img src="macos/folders/misc/png/misc-alt-troll.png" width="24" height="24" alt="UK"> <img src="macos/folders/misc/png/music-stanger.png" width="24" height="24" alt="Canada"> <img src="macos/folders/misc/png/music-amylandthesniffers.png" width="24" height="24" alt="Canada"> <img src="macos/folders/misc/png/apple-finder.png" width="24" height="24" alt="Canada"> <img src="macos/folders/misc/png/app-lastfm2.png" width="24" height="24" alt="Canada"> |
+| **Default Folders** | 90+ | `.icns` `.png` | <img src="macos/folders/default/png/r10.png" width="24" height="24" alt="Folder 1"> <img src="macos/folders/default/png/b5.png" width="24" height="24" alt="Folder 2"> <img src="macos/folders/default/png/y5.png" width="24" height="24" alt="Folder 3"> <img src="macos/folders/default/png/g3.png" width="24" height="24" alt="Folder 4"> |
 
-### Linux Icon Themes
+### <img src="./color/misc/tux.png" width="" height="40" alt="Tux">Linux Icon Themes
 
 | Theme | Icons | Format | Description |
 |-------|-------|--------|-------------|
@@ -165,7 +165,7 @@ Icons/
 
 ---
 
-## 🔧 Usage
+##  <img src="./color/misc/zap.png" width="" height="40" alt="Zap">Usage
 
 ### Applying macOS Folder Icons
 
@@ -207,10 +207,10 @@ sudo killall Finder && sudo killall Dock
 ```
 
 **Example icons:**
-- <img src="plain/simple/kubernetes.svg" width="20" height="20" alt="Kubernetes"> [Kubernetes](plain/simple/kubernetes.svg)
-- <img src="plain/simple/tailwindcss.svg" width="20" height="20" alt="Tailwind"> [Tailwind CSS](plain/simple/tailwindcss.svg)
-- <img src="plain/simple/vercel.svg" width="20" height="20" alt="Vercel"> [Vercel](plain/simple/vercel.svg)
-- <img src="plain/simple/redis.svg" width="20" height="20" alt="Redis"> [Redis](plain/simple/redis.svg)
+- <img src="color/web/png/kubernetes.png" width="20" height="20" alt="Kubernetes"> [Kubernetes](plain/simple/kubernetes.svg)
+- <img src="color/misc/psx.png" width="20" height="20" alt="Tailwind"> [PSX](color/misc/psx.png)
+- <img src="color/self-hosted/nzb-dav.png" width="20" height="20" alt="NZB-Dav"> [NZB-Dav](color/self-hosted/nzb-dav.png)
+- <img src="color/misc/prohibit-dancing.png" width="20" height="20" alt="Redis"> [D.R.I](color/misc/prohibit-dancing.png)
 - <img src="color/library/png/browser/firefox.png" width="20" height="20" alt="Firefox"> [Firefox](color/library/png/browser/firefox.png)
 
 ### Converting Icons
@@ -230,7 +230,7 @@ See [`utilities/scripts/README.md`](utilities/scripts/README.md) for complete sc
 
 ---
 
-## 📦 Icon Sets Included
+##  <img src="./color/misc/marble.png" width="" height="40" alt="Marble">Icon Sets Included
 
 <details>
 <summary><strong>Open Source Icon Libraries</strong></summary>
@@ -252,7 +252,7 @@ See [`utilities/scripts/README.md`](utilities/scripts/README.md) for complete sc
 
 ---
 
-## 🏷️ Quick Reference
+## <img src="./color/misc/grimmace.png" width="" height="40" alt="Grimmace"> Quick Reference
 
 ```
 60,000+ total icons
@@ -274,7 +274,7 @@ See [`utilities/scripts/README.md`](utilities/scripts/README.md) for complete sc
 
 ---
 
-## 🛠️ Utilities
+## ️<img src="./color/misc/Flareget.png" width="" height="35" alt="Flareget"> Utilities
 
 This repository includes professional command-line tools for managing icons:
 
@@ -296,7 +296,7 @@ Curated action icons organized for Keyboard Maestro macros:
 
 See [`utilities/keyboard-maestro-actions/README.md`](utilities/keyboard-maestro-actions/README.md) for details.
 
-## 💡 Tips
+##  <img src="color/misc/nuclear.png" width="" height="35" alt="Nuclear"> Tips
 
 - **High-resolution PNGs** are in `color/library/png/` — great for presentations
   - Example: <img src="color/library/png/developer/nodejs.png" width="16" height="16" alt="Node.js PNG"> [Node.js PNG](color/library/png/developer/nodejs.png)
@@ -312,9 +312,8 @@ See [`utilities/keyboard-maestro-actions/README.md`](utilities/keyboard-maestro-
 ---
 
 <div align="center">
-
 *Collected and organized for quick access*
 
-**◈**
+**<img src="./color/misc/login.png" width="" height="35" alt="Log">**
 
 </div>
