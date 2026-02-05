@@ -222,7 +222,7 @@ sudo killall Finder && sudo killall Dock
 **Example icons:**
 - <img src="color/catagory/Web/kubernetes.png" width="20" height="20" alt="Kubernetes"> [Kubernetes](color/catagory/Web/kubernetes.png)
 - <img src="color/misc/psx.png" width="20" height="20" alt="Tailwind"> [PSX](color/misc/psx.png)
-- <img src="color/catagory/self-hosted/nzb-dav.png" width="20" height="20" alt="NZB-Dav"> [NZB-Dav](color/catagory/Self-Hosted/nzb-dav.png)
+- <img src="color/catagory/Self-Hosted/nzb-dav.png" width="20" height="20" alt="NZB-Dav"> [NZB-Dav](color/catagory/Self-Hosted/nzb-dav.png)
 - <img src="color/misc/prohibit-dancing.png" width="20" height="20" alt="Redis"> [D.R.I](color/misc/prohibit-dancing.png)
 - <img src="color/library/browser/firefox.png" width="20" height="20" alt="Firefox"> [Firefox](color/library/browser/firefox.png)
 
