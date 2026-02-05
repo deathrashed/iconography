@@ -1,5 +1,6 @@
-<div align="center">
 # Iconography
+
+<div align="center">
 
 <img src="./color/misc/pupil.png" alt="Pupil" width="120">
 
