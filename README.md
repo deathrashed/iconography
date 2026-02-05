@@ -1,6 +1,5 @@
 <div align="center">
-
-# Icons
+# Iconography
 
 <img src="./color/misc/pupil.png" alt="Pupil" width="120">
 
@@ -30,83 +29,205 @@ This is a comprehensive collection of 60,000+ icons for developers, designers, a
 <summary><strong>Click to expand directory structure</strong></summary>
 
 ```
-Icons/
-├── color/              # Full-color icons
-│   ├── library/        # 7,000+ categorized icons (PNG + SVG)
-│   │   ├── png/        # Developer, AI, design, social, databases...
-│   │   └── svg/        # Vector versions of library icons
-│   ├── self-hosted/    # 1,000+ self-hosted service icons
-│   ├── web/            # 1,380+ web service icons (PNG + SVG)
-│   ├── papirus/        # Papirus icon theme (apps, devices, mimetypes)
-│   ├── flags/          # 262 country flags
-│   ├── os/             # Operating system icons
-│   ├── dev/            # Development tool icons
-│   ├── km/             # Keyboard Maestro icons
-│   ├── metabrainz/     # MusicBrainz ecosystem icons
-│   └── misc/           # Miscellaneous color icons
-│
-├── plain/              # Monochrome & line icons
-│   ├── tabler/         # 5,219 Tabler icons (PNG + SVG)
-│   ├── simple/         # 3,097 Simple Icons (brand logos, SVG)
-│   ├── logos/          # 6,196 brand logos (PNG + SVG)
-│   ├── font-awesome/   # 4,074 Font Awesome icons
-│   │   ├── brands/     # Brand icons
-│   │   ├── regular/    # Regular style
-│   │   └── solid/      # Solid style
-│   ├── remix/          # 2,860 Remix icons (PNG + SVG)
-│   ├── boxicons/       # 3,268 Boxicons (PNG + SVG)
-│   ├── lucide/         # 1,447 Lucide icons (SVG)
-│   ├── octicons/       # 1,208 GitHub Octicons (PNG + SVG)
-│   ├── feather/        # 574 Feather icons (PNG + SVG)
-│   ├── coolicons/      # 1,769 Coolicons (PNG + SVG)
-│   ├── rpg-awesome/    # 990 RPG & gaming icons
-│   ├── papirus/        # Papirus plain icons
-│   ├── brew/           # Homebrew package icons
-│   ├── car-badges/     # Car manufacturer badges
-│   └── misc/           # Additional plain icons
-│
-├── macos/              # macOS-specific assets
-│   ├── apps/           # 2,500+ app icons (ICNS + PNG)
-│   ├── folders/        # 4,000+ folder icons
-│   │   ├── branded/    # Branded folder variations
-│   │   ├── colors/     # Color-coded folders
-│   │   ├── default/    # Default macOS style
-│   │   └── misc/       # Miscellaneous folder icons
-│   └── misc/           # System & utility icons
-│
-├── linux/              # Linux icon themes
-│   ├── chameleon/      # Chameleon icon theme (7,000+ icons)
-│   ├── deepin/         # Deepin icon theme (10,000+ icons)
-│   ├── solarized/      # Solarized color scheme icons
-│   ├── tahoe/          # Tahoe icon theme (SVG)
-│   ├── usos/           # USOS icon theme (3,900+ SVG icons)
-│   ├── windows10/      # Windows 10 style icons (6,100+ icons)
-│   ├── distros/        # Linux distribution logos
-│   ├── refind/         # rEFInd bootloader icons
-│   └── tux/            # Tux (Linux mascot) variations
-│
-├── misc/               # Miscellaneous collections
-│   ├── ai/             # AI service icons (colorful, filled, outlined)
-│   ├── band-logos/     # 384 band/artist logos (SVG)
-│   ├── rings/          # 129 circular badge icons
-│   ├── record-colors/  # Record/vinyl color icons
-│   ├── bulk/           # Bulk icon collection
-│   └── misc/           # Music & media service icons
-│
-├── new/                # Newly added icons
-│   ├── food/           # Food brand icons
-│   └── svg/            # New SVG icons
-│
-└── utilities/          # Tools & scripts
-    ├── scripts/         # Icon management scripts
-    │   ├── bulk-download-icons.sh
-    │   ├── get-largest-size.sh
-    │   ├── apply-icon.sh
-    │   ├── svg-to-png.sh
-    │   └── convert-to-icns.sh
-    ├── keyboard-maestro-actions/  # Keyboard Maestro action icons
-    ├── applications/    # Icon management applications
-    └── folder-templates/ # Folder icon templates
+Iconography/
+├── color/
+│   ├── catagory/
+│   │   ├── AI/
+│   │   ├── Animals/
+│   │   ├── Audio/
+│   │   ├── Brands/
+│   │   ├── Buildings/
+│   │   ├── Business/
+│   │   ├── Checkmark/
+│   │   ├── Communication/
+│   │   ├── Developer/
+│   │   ├── Education/
+│   │   ├── Equipment/
+│   │   ├── File Type/
+│   │   ├── Finance/
+│   │   ├── Flags/
+│   │   ├── Food & Drink/
+│   │   ├── Hardware/
+│   │   ├── Health/
+│   │   ├── Internet/
+│   │   ├── Logistics/
+│   │   ├── Media/
+│   │   ├── Medical/
+│   │   ├── Nature/
+│   │   ├── Network/
+│   │   ├── OS/
+│   │   ├── Self-Hosted/
+│   │   ├── Signs/
+│   │   ├── Social Media/
+│   │   ├── Time & Date/
+│   │   ├── Traffic/
+│   │   ├── Weather/
+│   │   └── Web/
+│   ├── extra/
+│   │   ├── bulk/
+│   │   ├── food/
+│   │   └── km/
+│   ├── file-types/
+│   │   ├── additional/
+│   │   ├── code/
+│   │   └── files/
+│   ├── library/
+│   │   ├── ai/
+│   │   ├── browser/
+│   │   ├── cms/
+│   │   ├── community/
+│   │   ├── compiler/
+│   │   ├── crypto/
+│   │   ├── database/
+│   │   ├── design/
+│   │   ├── developer/
+│   │   ├── devtool/
+│   │   ├── education/
+│   │   ├── entertainment/
+│   │   ├── framework/
+│   │   ├── google/
+│   │   ├── hosting/
+│   │   ├── language/
+│   │   ├── library/
+│   │   ├── marketplace/
+│   │   ├── microsoft/
+│   │   ├── music/
+│   │   ├── payment/
+│   │   ├── social/
+│   │   ├── software/
+│   │   └── svg/
+│   ├── linux/
+│   │   ├── chameleon/
+│   │   ├── deepin/
+│   │   ├── distros/
+│   │   ├── os/
+│   │   ├── refind/
+│   │   ├── solarized/
+│   │   ├── tahoe/
+│   │   ├── tux/
+│   │   └── windows10/
+│   ├── misc/
+│   │   └── svg/
+│   ├── music/
+│   │   ├── band-logos/
+│   │   ├── guitars/
+│   │   ├── metabrainz/
+│   │   ├── record-colors/
+│   │   └── rings/
+│   └── papirus/
+│       ├── apps/
+│       ├── devices/
+│       └── file-types/
+├── macos/
+│   ├── apps/
+│   │   ├── icns/
+│   │   └── png/
+│   ├── drives/
+│   ├── folders/
+│   │   ├── branded/
+│   │   ├── colors/
+│   │   ├── default/
+│   │   ├── misc/
+│   │   └── tahoe/
+│   └── misc/
+│       ├── icns/
+│       └── png/
+├── new/
+│   ├── keyboard maestro/
+│   ├── png/
+│   └── svg/
+├── plain/
+│   ├── boxicons/
+│   │   ├── logos/
+│   │   ├── regular/
+│   │   └── svg/
+│   ├── brew/
+│   │   └── svg/
+│   ├── car-badges/
+│   │   ├── png/
+│   │   └── svg/
+│   ├── coolicons/
+│   │   ├── coolicons.iconjar/
+│   │   ├── png/
+│   │   └── svg/
+│   ├── ext/
+│   ├── feather/
+│   │   └── svg/
+│   ├── font-awesome/
+│   │   ├── brands/
+│   │   ├── regular/
+│   │   └── solid/
+│   ├── line/
+│   ├── logos/
+│   │   ├── png/
+│   │   └── svg/
+│   ├── lucide/
+│   ├── misc/
+│   ├── octicons/
+│   │   └── svg/
+│   ├── papirus/
+│   │   ├── actions/
+│   │   └── devices/
+│   ├── programming/
+│   ├── remix/
+│   │   ├── arrows/
+│   │   ├── buildings/
+│   │   ├── business/
+│   │   ├── communication/
+│   │   ├── design/
+│   │   ├── development/
+│   │   ├── device/
+│   │   ├── document/
+│   │   ├── editor/
+│   │   ├── finance/
+│   │   ├── food/
+│   │   ├── health & medical/
+│   │   ├── logos/
+│   │   ├── map/
+│   │   ├── media/
+│   │   ├── others/
+│   │   ├── system/
+│   │   ├── user & faces/
+│   │   └── weather/
+│   ├── rpg-awesome/
+│   ├── services/
+│   ├── simple/
+│   ├── social-media/
+│   ├── tabler/
+│   │   ├── png/
+│   │   └── svg/
+│   ├── teal/
+│   │   └── svg/
+│   ├── txt/
+│   └── web/
+└── utilities/
+    ├── applications/
+    │   ├── App Icon Generator.app/
+    │   ├── Folder Art.app/
+    │   ├── Folder Icons.app/
+    │   ├── IconJar.app/
+    │   ├── Iconize.app/
+    │   ├── Image2Icon.app/
+    │   ├── Mac ICNS Creator.app/
+    │   ├── Pichon.app/
+    │   └── macOS Icons.app/
+    ├── folders/
+    │   ├── extra/
+    │   ├── icns/
+    │   ├── pizza/
+    │   ├── png/
+    │   ├── star/
+    │   └── svg/
+    ├── keyboard-maestro-actions/
+    │   ├── files/
+    │   ├── png/
+    │   ├── svg/
+    │   ├── system/
+    │   ├── text/
+    │   └── visibility/
+    └── scripts/
+        ├── library/
+        └── shared/
 ```
 
 </details>
@@ -122,7 +243,7 @@ Icons/
 | **Library (Developer)** | 1,877 | Languages, frameworks, tools, IDEs (PNG) | <img src="color/library/developer/nodejs.png" width="38" height="38" alt="Node.js"> <img src="./color/library/developer/docker.png" width="38" height="38" alt="Docker"> <img src="color/library/developer/python.png" width="38" height="38" alt="Python"> <img src="color/library/developer/react.png" width="38" height="38" alt="React"> <img src="color/library/developer/kubernetes.png" width="38" height="38" alt="Kubernetes"> <img src="color/library/developer/git.png" width="38" height="38" alt="Git"> |
 | **Library (Software)** | 1,119 | Desktop applications & utilities (PNG) | <img src="color/catagory/Web/notion.png" width="38" height="38" alt="Notion"> <img src="./color/library/software/raspberrypi.png" width="38" height="38" alt="Raspberry Pi"> <img src="color/library/software/pycharm.png" width="38" height="38" alt="PyCharm"> <img src="color/library/software/intellijidea.png" width="38" height="38" alt="IntelliJ"> <img src="color/library/software/xcode.png" width="38" height="38" alt="Xcode"> <img src="color/library/software/visual-studio.png" width="38" height="38" alt="Visual Studio"> |
 | **Self-Hosted** | 1,030 | Self-hosted service icons | <img src="color/catagory/Self-Hosted/reaparr.png" width="38" height="38" alt="Reaparr"> <img src="color/catagory/Self-Hosted/nixopus.png" width="38" height="38" alt="Nixopus"> <img src="color/catagory/Self-Hosted/manyfold.png" width="38" height="38" alt="Manyfold"> <img src="color/catagory/Self-Hosted/librechat.png" width="38" height="38" alt="LibreChat"> <img src="color/catagory/Self-Hosted/rotki.png" width="38" height="38" alt="Rotki"> <img src="color/catagory/Self-Hosted/pepperminty-wiki.png" width="38" height="38" alt="Pepperminty Wiki"> |
-| **Web Services** | 1,380+ | Web service icons (PNG + SVG) | <img src="color/misc/Layer.png" width="38" height="38" alt="Layer"> <img src="/color/catagory/Web/firebase.png" width="38" height="38" alt="Firebase"> <img src="color/misc/sabnzb.png" width="38" height="38" alt="SABnzbd"> <img src="color/catagory/Web/svelte.png" width="38" height="38" alt="Svelte"> <img src="color/catagory/Web/pinterest.png" width="38" height="38" alt="Pinterest"> <img src="color/catagory/Web/messenger.png" width="38" height="38" alt="Messenger"> |
+| **Web Services** | 1,380+ | Web service icons (PNG + SVG) | <img src="color/misc/Layer.png" width="38" height="38" alt="Layer"> <img src="./color/catagory/Web/firebase.png" width="38" height="38" alt="Firebase"> <img src="color/misc/sabnzb.png" width="38" height="38" alt="SABnzbd"> <img src="color/catagory/Web/svelte.png" width="38" height="38" alt="Svelte"> <img src="color/catagory/Web/pinterest.png" width="38" height="38" alt="Pinterest"> <img src="color/catagory/Web/messenger.png" width="38" height="38" alt="Messenger"> |
 | **Papirus** | 2,380+ | Papirus icon theme (apps, devices, mimetypes) | <img src="color/papirus/apps/frescobaldi.png" width="38" height="38" alt="Frescobaldi"> <img src="color/papirus/apps/king-phisher-icon.png" width="38" height="38" alt="King Phisher"> <img src="color/papirus/apps/nihilumbra.png" width="38" height="38" alt="Nihilumbra"> <img src="color/papirus/apps/scout-app.png" width="38" height="38" alt="Scout App"> <img src="color/papirus/apps/netsniff-ng.png" width="38" height="38" alt="Netsniff-ng"> <img src="color/papirus/apps/the-stanley-parable.png" width="38" height="38" alt="The Stanley Parable"> |
 | **Flags** | 262 | Country flags | <img src="color/catagory/Flags/gb.png" width="38" height="38" alt="UK Flag"> <img src="color/catagory/Flags/ca.png" width="38" height="38" alt="Canada Flag"> <img src="color/catagory/Flags/mk.png" width="38" height="38" alt="Macedonia Flag"> <img src="color/catagory/Flags/jp.png" width="38" height="38" alt="Japan Flag"> <img src="color/catagory/Flags/au.png" width="38" height="38" alt="Australia Flag"> <img src="color/catagory/Flags/br.png" width="38" height="38" alt="Brazil Flag"> |
 | **AI** | 50+ | ChatGPT, Claude, Copilot, Midjourney... | <img src="./color/catagory/AI/chatgpt.png" width="38" height="38" alt="ChatGPT"> <img src="./color/catagory/AI/copilot.png" width="38" height="38" alt="Copilot"> <img src="./color/catagory/AI/gemini.png" width="38" height="38" alt="Google"> <img src="./color/catagory/AI/huggingface.png" width="38" height="38" alt="Hugging Face"> <img src="./color/catagory/AI/perplexity.png" width="38" height="38" alt="Perplexity"> <img src="./color/catagory/AI/deepseek.png" width="38" height="38" alt="DeepSeek"> |
