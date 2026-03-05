@@ -1,0 +1,87 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd"
+    stroke-linejoin="round" stroke-miterlimit="2">
+    <path fill="none" d="M-6-6h524v524H-6z" />
+    <g transform="matrix(2.72917 0 0 2.72917 -6 -6)">
+        <clipPath id="prefix__a">
+            <path
+                d="M8 20v140c0 6.6 5.4 12 12 12h152c6.6 0 12-5.4 12-12V20H8zm108 32H76c-4.42 0-8-3.58-8-8s3.58-8 8-8h40c4.42 0 8 3.58 8 8s-3.58 8-8 8z" />
+        </clipPath>
+        <g clip-path="url(#prefix__a)">
+            <path fill="#eee" fill-rule="nonzero" d="M8 20h176v152H8z" />
+        </g>
+    </g>
+    <g transform="matrix(2.72917 0 0 2.72917 -6 -6)">
+        <clipPath id="prefix__b">
+            <path
+                d="M8 20v140c0 6.6 5.4 12 12 12h152c6.6 0 12-5.4 12-12V20H8zm108 32H76c-4.42 0-8-3.58-8-8s3.58-8 8-8h40c4.42 0 8 3.58 8 8s-3.58 8-8 8z" />
+        </clipPath>
+        <g clip-path="url(#prefix__b)">
+            <path d="M116 36H76c-4.42 0-8 3.58-8 8s3.58 8 8 8h40c4.42 0 8-3.58 8-8s-3.58-8-8-8z" fill="#fff"
+                fill-rule="nonzero" />
+        </g>
+    </g>
+    <g transform="matrix(2.72917 0 0 2.72917 -6 -6)">
+        <clipPath id="prefix__c">
+            <path
+                d="M8 20v140c0 6.6 5.4 12 12 12h152c6.6 0 12-5.4 12-12V20H8zm108 32H76c-4.42 0-8-3.58-8-8s3.58-8 8-8h40c4.42 0 8 3.58 8 8s-3.58 8-8 8z" />
+        </clipPath>
+        <g clip-path="url(#prefix__c)">
+            <clipPath id="prefix__d">
+                <circle cx="96" cy="160" r="76" />
+            </clipPath>
+            <g clip-path="url(#prefix__d)">
+                <path d="M32.07 84v93.27h34.01L96 125.45h76V84H32.07zm0 0v93.27h34.01L96 125.45h76V84H32.07z"
+                    fill="#db4437" fill-rule="nonzero" />
+            </g>
+            <clipPath id="prefix__e">
+                <circle cx="96" cy="160" r="76" />
+            </clipPath>
+            <g clip-path="url(#prefix__e)">
+                <path
+                    d="M20 236h72.34l33.58-33.58v-25.14l-59.84-.01L20 98.24V236zm0 0h72.34l33.58-33.58v-25.14l-59.84-.01L20 98.24V236z"
+                    fill="#0f9d58" fill-rule="nonzero" />
+            </g>
+            <clipPath id="prefix__f">
+                <circle cx="96" cy="160" r="76" />
+            </clipPath>
+            <g clip-path="url(#prefix__f)">
+                <path d="M96 125.45l29.92 51.82L92.35 236H172V125.45H96zm0 0l29.92 51.82L92.35 236H172V125.45H96z"
+                    fill="#ffcd40" fill-rule="nonzero" />
+            </g>
+            <clipPath id="prefix__g">
+                <circle cx="96" cy="160" r="76" />
+            </clipPath>
+            <g clip-path="url(#prefix__g)">
+                <circle cx="96" cy="160" r="34.55" fill="#f1f1f1" />
+                <circle cx="96" cy="160" r="27.64" fill="#4285f4" />
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(2.72917 0 0 2.72917 -6 -6)">
+        <clipPath id="prefix__h">
+            <path
+                d="M8 20v140c0 6.6 5.4 12 12 12h152c6.6 0 12-5.4 12-12V20H8zm108 32H76c-4.42 0-8-3.58-8-8s3.58-8 8-8h40c4.42 0 8 3.58 8 8s-3.58 8-8 8z" />
+        </clipPath>
+        <g clip-path="url(#prefix__h)">
+            <path fill="#212121" fill-opacity=".05" fill-rule="nonzero" d="M8 20h176v76H8z" />
+        </g>
+    </g>
+    <path fill="#212121" fill-opacity=".02" fill-rule="nonzero" d="M15.833 253.27h480.333V256H15.833z" />
+    <path fill="#fff" fill-opacity=".05" fill-rule="nonzero" d="M15.833 256h480.333v2.729H15.833z" />
+    <path
+        d="M310.583 135.916H201.416c-11.599 0-21.07-9.06-21.751-20.469-.055.464-.082.9-.082 1.365 0 12.063 9.77 21.833 21.833 21.833h109.167c12.063 0 21.833-9.77 21.833-21.833 0-.464-.027-.9-.082-1.365-.682 11.408-10.152 20.469-21.751 20.469zM15.833 48.583v2.729h480.333v-2.73H15.833z"
+        fill="#212121" fill-opacity=".02" fill-rule="nonzero" />
+    <path
+        d="M201.416 92.25h109.167c11.599 0 21.069 9.06 21.751 20.468.027-.464.082-.9.082-1.364 0-12.063-9.77-21.834-21.833-21.834H201.416c-12.063 0-21.833 9.77-21.833 21.834 0 .463.027.9.082 1.364.682-11.408 10.152-20.469 21.751-20.469zm262 368.437H48.583c-18.013 0-32.75-14.738-32.75-32.75v2.729c0 18.013 14.737 32.75 32.75 32.75h414.833c18.012 0 32.75-14.737 32.75-32.75v-2.73c0 18.013-14.738 32.75-32.75 32.75z"
+        fill="#231f20" fill-opacity=".1" fill-rule="nonzero" />
+    <path
+        d="M8 20v140c0 6.6 5.4 12 12 12h152c6.6 0 12-5.4 12-12V20H8zm108 32H76c-4.42 0-8-3.58-8-8s3.58-8 8-8h40c4.42 0 8 3.58 8 8s-3.58 8-8 8z"
+        fill="url(#Radial9)" fill-rule="nonzero" transform="matrix(2.72917 0 0 2.72917 -6 -6)" />
+    <defs>
+        <radialGradient id="Radial9" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+            gradientTransform="translate(7.502 19.344) scale(227.596)">
+            <stop offset="0" stop-color="#fff" stop-opacity=".1" />
+            <stop offset="1" stop-color="#fff" stop-opacity="0" />
+        </radialGradient>
+    </defs>
+</svg>
