@@ -1,0 +1,10 @@
+type: IconLibrary
+name: DefaultIcons
+displayName: Default Icons
+description: The default icon pack offers a collection of icons that are perfect for customizing your device. This pack features icons for essential daily functions, including control over music playback, putting your system to system to sleep and much more.
+version: 1.0
+author: Logitech
+copyright: Copyright © 2024 Logitech Europe SA. All rights reserved.
+license: Creative Commons CC0 1.0 Universal
+licenseUrl: https://creativecommons.org/publicdomain/zero/1.0/
+homePageUrl: https://www.logitech.com/
