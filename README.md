@@ -20,7 +20,7 @@
 
 ## 🗂️ About
 
-This is a comprehensive collection of 60,000+ icons for developers, designers, and power users. Icons for apps, folders, services, programming languages, and beyond.
+This is a comprehensive collection of 70,000+ icons for developers, designers, and power users. Icons for apps, folders, services, programming languages, and beyond.
 
 ---
 
