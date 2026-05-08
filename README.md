@@ -257,11 +257,11 @@ Iconography/
 | **Misc** | Various | Miscellaneous icons | <img src="color/library/software/kfc2.png" width="38" height="38" alt="KFC"> <img src="color/library/software/dominos.png" width="38" height="38" alt="Domino's"> <img src="color/library/software/wendys.png" width="38" height="38" alt="Wendy's"> <img src="color/library/software/tanstack.png" width="38" height="38" alt="TanStack"> <img src="color/library/software/pepsi.png" width="38" height="38" alt="Pepsi"> <img src="color/library/software/electric-guitar.png" width="38" height="38" alt="Electric Guitar"> |
 
 
-### <img src="./color/misc/apple.png" width="" height="28" alt="Apple">macOS Assets
+### <img src="misc/apple.png" width="" height="28" alt="Apple">macOS Assets
 
 | Category | Count | Formats | Preview |
 |----------|-------|---------|---------|
-| **Color Folders** | 270+ | `.icns` | <img src="./macos/folders/misc/png/linux-tux-fill.png" width="48" height="48" alt="Linux Tux"> <img src="./macos/folders/misc/png/misc-supreme.png" width="48" height="48" alt="Supreme"> <img src="macos/folders/misc/png/misc-alt-troll.png" width="48" height="48" alt="Troll"> <img src="macos/folders/misc/png/music-stanger.png" width="48" height="48" alt="Stranger"> <img src="macos/folders/misc/png/music-amylandthesniffers.png" width="48" height="48" alt="Amyl and the Sniffers"> <img src="macos/folders/misc/png/apple-finder.png" width="48" height="48" alt="Finder"> <img src="macos/folders/misc/png/app-lastfm2.png" width="48" height="48" alt="Last.fm"> <img src="macos/folders/misc/png/apple-formal.png" width="48" height="48" alt="Apple Formal"> <img src="macos/folders/misc/png/app-ghostty.png" width="48" height="48" alt="Ghostty"> <img src="macos/folders/misc/png/dev-dotfiles.png" width="48" height="48" alt="Dotfiles"> <img src="macos/folders/misc/png/images-svg.png" width="48" height="48" alt="SVG"> <img src="macos/folders/misc/png/apple-real.png" width="48" height="48" alt="Apple Real"> <img src="macos/folders/misc/png/app-github.png" width="48" height="48" alt="GitHub"> <img src="macos/folders/misc/png/app-keyboard-maestro.png" width="48" height="48" alt="Keyboard Maestro"> <img src="macos/folders/misc/png/misc-hazard.png" width="48" height="48" alt="Hazard"> <img src="macos/folders/misc/png/dev-go.png" width="48" height="48" alt="Go"> <img src="macos/folders/misc/png/apple-wp-sonoma.png" width="48" height="48" alt="Sonoma"> <img src="macos/folders/misc/png/app-bandcamp.png" width="48" height="48" alt="Bandcamp"> |
+| **Color Folders** | 270+ | `.icns` | <img src="macos/folders/misc/png/linux-tux-fill.png" width="48" height="48" alt="Linux Tux"> <img src="macos/folders/misc/png/misc-supreme.png" width="48" height="48" alt="Supreme"> <img src="macos/folders/misc/png/misc-alt-troll.png" width="48" height="48" alt="Troll"> <img src="macos/folders/misc/png/music-stanger.png" width="48" height="48" alt="Stranger"> <img src="macos/folders/misc/png/music-amylandthesniffers.png" width="48" height="48" alt="Amyl and the Sniffers"> <img src="macos/folders/misc/png/apple-finder.png" width="48" height="48" alt="Finder"> <img src="macos/folders/misc/png/app-lastfm2.png" width="48" height="48" alt="Last.fm"> <img src="macos/folders/misc/png/apple-formal.png" width="48" height="48" alt="Apple Formal"> <img src="macos/folders/misc/png/app-ghostty.png" width="48" height="48" alt="Ghostty"> <img src="macos/folders/misc/png/dev-dotfiles.png" width="48" height="48" alt="Dotfiles"> <img src="macos/folders/misc/png/images-svg.png" width="48" height="48" alt="SVG"> <img src="macos/folders/misc/png/apple-real.png" width="48" height="48" alt="Apple Real"> <img src="macos/folders/misc/png/app-github.png" width="48" height="48" alt="GitHub"> <img src="macos/folders/misc/png/app-keyboard-maestro.png" width="48" height="48" alt="Keyboard Maestro"> <img src="macos/folders/misc/png/misc-hazard.png" width="48" height="48" alt="Hazard"> <img src="macos/folders/misc/png/dev-go.png" width="48" height="48" alt="Go"> <img src="macos/folders/misc/png/apple-wp-sonoma.png" width="48" height="48" alt="Sonoma"> <img src="macos/folders/misc/png/app-bandcamp.png" width="48" height="48" alt="Bandcamp"> |
 | **App Icons** | 2,500+ | `.icns` `.png` | <img src="macos/apps/png/macOS Icon Gallery/winamp.png" width="48" height="48" alt="Winamp"> <img src="macos/apps/png/macOS Icon Gallery/weather-mini.png" width="48" height="48" alt="Weather"> <img src="macos/apps/png/macOS Icon Gallery/untitled-goose-game.png" width="48" height="48" alt="Untitled Goose Game"> <img src="macos/apps/png/macOS Icon Gallery/toyviewer.png" width="48" height="48" alt="ToyViewer"> <img src="macos/apps/png/macOS Icon Gallery/hypercal.png" width="48" height="48" alt="Hypercal"> <img src="macos/apps/png/macOS Icon Gallery/demus.png" width="48" height="48" alt="Demus"> <img src="macos/apps/png/macOS Icon Gallery/bomb.png" width="48" height="48" alt="Bomb"> <img src="macos/apps/png/macOS Icon Gallery/psx.png" width="48" height="48" alt="PSX"> <img src="macos/apps/png/macOS Icon Gallery/music-metallum.png" width="48" height="48" alt="Metal Archives"> |
 | **Branded Folders** | 3,500+ | `.icns` `.png` | <img src="macos/folders/branded/png/chupachups.png" width="48" height="48" alt="Chupa Chups"> <img src="macos/folders/branded/png/fifa.png" width="48" height="48" alt="FIFA"> <img src="macos/folders/branded/png/react.png" width="48" height="48" alt="React"> <img src="macos/folders/branded/png/myspace.png" width="48" height="48" alt="MySpace"> <img src="macos/folders/branded/png/paramountplus.png" width="48" height="48" alt="Paramount+"> <img src="macos/folders/branded/png/puma.png" width="48" height="48" alt="Puma"> <img src="macos/folders/branded/png/rubysinatra.png" width="48" height="48" alt="Ruby Sinatra"> <img src="macos/folders/branded/png/counterstrike.png" width="48" height="48" alt="Counter-Strike"> <img src="macos/folders/branded/png/battledotnet.png" width="48" height="48" alt="Battle.net"> |
 | **Default Folders** | 90+ | `.icns` `.png` | <img src="macos/folders/default/png/r10.png" width="48" height="48" alt="Folder Red"> <img src="macos/folders/default/png/b5.png" width="48" height="48" alt="Folder Blue"> <img src="macos/folders/default/png/y5.png" width="48" height="48" alt="Folder Yellow"> <img src="macos/folders/default/png/g3.png" width="48" height="48" alt="Folder Green"> <img src="macos/folders/default/png/r12 copy.png" width="48" height="48" alt="Folder Red 12"> <img src="macos/folders/default/png/p2.png" width="48" height="48" alt="Folder Purple"> <img src="macos/folders/default/png/g4.png" width="48" height="48" alt="Folder Green 4"> <img src="macos/folders/default/png/w3.png" width="48" height="48" alt="Folder White 3"> <img src="macos/folders/default/png/p9.png" width="48" height="48" alt="Folder Purple 9"> |
@@ -273,10 +273,10 @@ Iconography/
 |-----|-------|--------|-------|---------|
 | **Tabler** | 5,219 | PNG + SVG | Outline & filled | <img src="plain/tabler/svg/outline/brand-github.svg" width="24" height="24" alt="Tabler"> <img src="plain/tabler/svg/outline/brand-docker.svg" width="24" height="24" alt="Docker"> <img src="plain/tabler/svg/outline/brand-react.svg" width="24" height="24" alt="React"> <img src="plain/tabler/svg/outline/brand-python.svg" width="24" height="24" alt="Python"> |
 | **Simple Icons** | 3,097 | SVG | Brand logos | <img src="plain/simple/kubernetes.svg" width="24" height="24" alt="Kubernetes"> <img src="plain/simple/tailwindcss.svg" width="24" height="24" alt="Tailwind"> <img src="plain/simple/vercel.svg" width="24" height="24" alt="Vercel"> <img src="plain/simple/redis.svg" width="24" height="24" alt="Redis"> |
-| **Logos** | 6,196 | PNG + SVG | Developer brands | <img src="./plain/logos/png/white/burgerking-white.png" width="24" height="24" alt="Kubernetes"> <img src="plain/logos/png/white/bmw-white.png" width="24" height="24" alt="Kubernetes"> <img src="plain/logos/png/white/mlb-white.png" width="24" height="24" alt="Kubernetes"> <img src="plain/logos/png/white/thenorthface-white.png" width="24" height="24" alt="Kubernetes"> |
+| **Logos** | 6,196 | PNG + SVG | Developer brands | <img src="plain/logos/png/white/burgerking-white.png" width="24" height="24" alt="Kubernetes"> <img src="plain/logos/png/white/bmw-white.png" width="24" height="24" alt="Kubernetes"> <img src="plain/logos/png/white/mlb-white.png" width="24" height="24" alt="Kubernetes"> <img src="plain/logos/png/white/thenorthface-white.png" width="24" height="24" alt="Kubernetes"> |
 | **Font Awesome** | 4,074 | PNG + SVG | Brands, regular, solid | <img src="plain/font-awesome/brands/svg/docker.svg" width="24" height="24" alt="Docker"> <img src="plain/font-awesome/brands/svg/react.svg" width="24" height="24" alt="React"> <img src="plain/font-awesome/brands/svg/python.svg" width="24" height="24" alt="Python"> <img src="plain/font-awesome/brands/svg/node-js.svg" width="24" height="24" alt="Node.js"> |
 | **Boxicons** | 3,268 | PNG + SVG | Regular, solid, logos | <img src="plain/boxicons/logos/svg/bxl-react.svg" width="24" height="24" alt="React"> <img src="plain/boxicons/logos/svg/bxl-nodejs.svg" width="24" height="24" alt="Node.js"> <img src="plain/boxicons/logos/svg/bxl-python.svg" width="24" height="24" alt="Python"> <img src="plain/boxicons/logos/svg/bxl-docker.svg" width="24" height="24" alt="Docker"> |
-| **Remix** | 2,860 | PNG + SVG | Line & fill | <img src="plain/remix/finance/gift-line.png" width="24" height="24" alt="Gift"> <img src="plain/remix/finance/funds-fill.png" width="24" height="24" alt="Funds"> <img src="plain/remix/logos/apple-fill.svg" width="24" height="24" alt="Apple"> <img src="./plain/remix/logos/discord-line.svg" width="24" height="24" alt="Discord"> |
+| **Remix** | 2,860 | PNG + SVG | Line & fill | <img src="plain/remix/finance/gift-line.png" width="24" height="24" alt="Gift"> <img src="plain/remix/finance/funds-fill.png" width="24" height="24" alt="Funds"> <img src="plain/remix/logos/apple-fill.svg" width="24" height="24" alt="Apple"> <img src="plain/remix/logos/discord-line.svg" width="24" height="24" alt="Discord"> |
 | **Lucide** | 1,447 | SVG | Clean line icons | <img src="plain/lucide/home.svg" width="24" height="24" alt="Home"> <img src="plain/lucide/search.svg" width="24" height="24" alt="Search"> <img src="plain/lucide/settings.svg" width="24" height="24" alt="Settings"> <img src="plain/lucide/user.svg" width="24" height="24" alt="User"> |
 | **Coolicons** | 1,769 | PNG + SVG | Modern line icons | <img src="plain/coolicons/svg/System/Code.svg" width="24" height="24" alt="Code"> <img src="plain/coolicons/svg/System/Monitor.svg" width="24" height="24" alt="Monitor"> <img src="plain/coolicons/svg/System/Save.svg" width="24" height="24" alt="Save"> <img src="plain/coolicons/svg/System/Terminal.svg" width="24" height="24" alt="Terminal"> |
 | **Octicons** | 1,208 | PNG + SVG | GitHub style | <img src="plain/octicons/svg/home-16.svg" width="24" height="24" alt="Home"> <img src="plain/octicons/svg/search-16.svg" width="24" height="24" alt="Search"> <img src="plain/octicons/svg/plug-16.svg" width="24" height="24" alt="Settings"> <img src="plain/octicons/svg/mark-github-16.svg" width="24" height="24" alt="GitHub"> |
@@ -286,7 +286,7 @@ Iconography/
 | **Car Badges** | 172 | PNG + SVG | Car manufacturer logos | <img src="plain/car-badges/svg/tesla.svg" width="24" height="24" alt="Tesla"> <img src="plain/car-badges/svg/bmw.svg" width="24" height="24" alt="BMW"> <img src="plain/car-badges/svg/ferrari.svg" width="24" height="24" alt="Mercedes"> <img src="plain/car-badges/svg/audi.svg" width="24" height="24" alt="Audi"> |
 
 
-### <img src="./color/misc/tux.png" width="" height="28" alt="Tux">Linux Icon Themes
+### <img src="misc/tux.png" width="" height="28" alt="Tux">Linux Icon Themes
 
 | Theme | Icons | Format | Description |
 |-------|-------|--------|-------------|
@@ -300,7 +300,7 @@ Iconography/
 
 ---
 
-##  <img src="./color/misc/zap.png" width="" height="28" alt="Zap"> Usage
+##  <img src="misc/zap.png" width="" height="28" alt="Zap"> Usage
 
 ### Applying macOS Folder Icons
 
@@ -342,10 +342,10 @@ sudo killall Finder && sudo killall Dock
 ```
 
 **Example icons:**
-- <img src="color/catagory/Web/kubernetes.png" width="20" height="20" alt="Kubernetes"> [Kubernetes](color/catagory/Web/kubernetes.png)
-- <img src="color/misc/psx.png" width="20" height="20" alt="Tailwind"> [PSX](color/misc/psx.png)
-- <img src="color/catagory/Self-Hosted/nzb-dav.png" width="20" height="20" alt="NZB-Dav"> [NZB-Dav](color/catagory/Self-Hosted/nzb-dav.png)
-- <img src="color/misc/prohibit-dancing.png" width="20" height="20" alt="Redis"> [D.R.I](color/misc/prohibit-dancing.png)
+- <img src="color/category/web/kubernetes.png" width="20" height="20" alt="Kubernetes"> [Kubernetes](color/category/web/kubernetes.png)
+- <img src="misc/psx.png" width="20" height="20" alt="Tailwind"> [PSX](misc/psx.png)
+- <img src="color/category/self-hosted/nzb-dav.png" width="20" height="20" alt="NZB-Dav"> [NZB-Dav](color/category/self-hosted/nzb-dav.png)
+- <img src="misc/prohibit-dancing.png" width="20" height="20" alt="Redis"> [D.R.I](misc/prohibit-dancing.png)
 - <img src="color/library/browser/firefox.png" width="20" height="20" alt="Firefox"> [Firefox](color/library/browser/firefox.png)
 
 ### Converting Icons
@@ -365,7 +365,7 @@ See [`utilities/scripts/README.md`](utilities/scripts/README.md) for complete sc
 
 ---
 
-##  <img src="./color/misc/marble.png" width="" height="28" alt="Marble">Icon Sets Included
+##  <img src="misc/marble.png" width="" height="28" alt="Marble">Icon Sets Included
 
 <details>
 <summary><strong>Open Source Icon Libraries</strong></summary>
@@ -387,7 +387,7 @@ See [`utilities/scripts/README.md`](utilities/scripts/README.md) for complete sc
 
 ---
 
-## <img src="./color/misc/grimmace.png" width="" height="28" alt="Grimmace">Quick Reference
+## <img src="misc/grimmace.png" width="" height="28" alt="Grimmace">Quick Reference
 
 ```
 60,000+ total icons
@@ -409,7 +409,7 @@ See [`utilities/scripts/README.md`](utilities/scripts/README.md) for complete sc
 
 ---
 
-## ️<img src="./color/misc/flareget.png" width="" height="28" alt="Flareget"> Utilities
+## ️<img src="misc/flareget.png" width="" height="28" alt="Flareget"> Utilities
 
 This repository includes professional command-line tools for managing icons:
 
@@ -431,7 +431,7 @@ Curated action icons organized for Keyboard Maestro macros:
 
 See [`utilities/keyboard-maestro-actions/README.md`](utilities/keyboard-maestro-actions/README.md) for details.
 
-##  <img src="color/misc/nuclear.png" width="" height="28" alt="Nuclear"> Tips
+##  <img src="misc/nuclear.png" width="" height="28" alt="Nuclear"> Tips
 
 - **High-resolution PNGs** are in `color/library/png/` — great for presentations
   - Example: <img src="color/library/developer/nodejs.png" width="16" height="16" alt="Node.js PNG"> [Node.js PNG](color/library/png/developer/nodejs.png)
@@ -442,13 +442,13 @@ See [`utilities/keyboard-maestro-actions/README.md`](utilities/keyboard-maestro-
 - **Linux icon themes** in `linux/` can be used for desktop customization
 - **Dark mode variants** are available in `*/dark/` subdirectories where applicable
 - **Use included scripts** for batch processing and format conversion
-- **AI icons** available in multiple styles: <img src="./color/catagory/AI/svg/colorful/chatgpt.svg" width="20" height="" alt="ChatGPT"> <img src="./color/catagory/AI/svg/colorful/claude.svg" width="20" height="" alt="Claude"> <img src="./color/catagory/AI/svg/colorful/copilot.svg" width="20" height="" alt="Copilot">
+- **AI icons** available in multiple styles: <img src="color/ai/svg/colorful/chatgpt.svg" width="20" height="" alt="ChatGPT"> <img src="color/ai/svg/colorful/claude.svg" width="20" height="" alt="Claude"> <img src="color/ai/svg/colorful/copilot.svg" width="20" height="" alt="Copilot">
 
 ---
 
 <div align="center">
 *Collected and organized for quick access*
 
-**<img src="./color/misc/login.png" width="" height="35" alt="Log">**
+**<img src="misc/login.png" width="" height="35" alt="Log">**
 
 </div>
