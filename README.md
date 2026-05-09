@@ -31,49 +31,67 @@ This is a comprehensive collection of 70,000+ icons for developers, designers, a
 
 ```
 Iconography/
+├── _new/
 ├── color/
-│   ├── catagory/
 │   │   ├── AI/
-│   │   ├── Animals/
-│   │   ├── Audio/
-│   │   ├── Brands/
-│   │   ├── Buildings/
-│   │   ├── Business/
-│   │   ├── Checkmark/
-│   │   ├── Communication/
-│   │   ├── Developer/
-│   │   ├── Education/
-│   │   ├── Equipment/
-│   │   ├── File Type/
-│   │   ├── Finance/
-│   │   ├── Flags/
-│   │   ├── Food & Drink/
-│   │   ├── Hardware/
-│   │   ├── Health/
-│   │   ├── Internet/
-│   │   ├── Logistics/
-│   │   ├── Media/
-│   │   ├── Medical/
-│   │   ├── Nature/
-│   │   ├── Network/
-│   │   ├── OS/
-│   │   ├── Self-Hosted/
-│   │   ├── Signs/
-│   │   ├── Social Media/
-│   │   ├── Time & Date/
-│   │   ├── Traffic/
-│   │   ├── Weather/
-│   │   └── Web/
-│   ├── extra/
-│   │   ├── bulk/
-│   │   ├── food/
-│   │   └── km/
+│   ├── ai/
+│   │   ├── png/
+│   │   ├── svg/
+│   │   └── webp/
+│   ├── category/
+│   │   ├── animals/
+│   │   ├── audio/
+│   │   ├── brands/
+│   │   ├── buildings/
+│   │   ├── business/
+│   │   ├── checkmark/
+│   │   ├── communication/
+│   │   ├── developer/
+│   │   ├── education/
+│   │   ├── equipment/
+│   │   ├── file type/
+│   │   ├── finance/
+│   │   ├── flags/
+│   │   ├── food & drink/
+│   │   ├── hardware/
+│   │   ├── health/
+│   │   ├── internet/
+│   │   ├── logistics/
+│   │   ├── media/
+│   │   ├── medical/
+│   │   ├── nature/
+│   │   ├── network/
+│   │   ├── os/
+│   │   ├── self-hosted/
+│   │   ├── signs/
+│   │   ├── social media/
+│   │   ├── time & date/
+│   │   ├── traffic/
+│   │   ├── weather/
+│   │   └── web/
+│   ├── distros/
+│   │   ├── chameleon/
+│   │   ├── deepin/
+│   │   ├── distros/
+│   │   ├── os/
+│   │   ├── refind/
+│   │   ├── solarized/
+│   │   ├── tahoe/
+│   │   ├── tux/
+│   │   └── windows10/
 │   ├── file-types/
 │   │   ├── additional/
+│   │   ├── archive-types/
 │   │   ├── code/
 │   │   └── files/
+│   ├── km/
+│   │   ├── bulk/
+│   │   ├── fluent/
+│   │   ├── keyboard maestro/
+│   │   ├── logos/
+│   │   ├── material/
+│   │   └── vscode/
 │   ├── library/
-│   │   ├── ai/
 │   │   ├── browser/
 │   │   ├── cms/
 │   │   ├── community/
@@ -97,24 +115,14 @@ Iconography/
 │   │   ├── social/
 │   │   ├── software/
 │   │   └── svg/
-│   ├── linux/
-│   │   ├── chameleon/
-│   │   ├── deepin/
-│   │   ├── distros/
-│   │   ├── os/
-│   │   ├── refind/
-│   │   ├── solarized/
-│   │   ├── tahoe/
-│   │   ├── tux/
-│   │   └── windows10/
-│   ├── misc/
-│   │   └── svg/
 │   ├── music/
 │   │   ├── band-logos/
+│   │   ├── deemon/
 │   │   ├── guitars/
 │   │   ├── metabrainz/
 │   │   ├── record-colors/
-│   │   └── rings/
+│   │   ├── rings/
+│   │   └── swinsian/
 │   └── papirus/
 │       ├── apps/
 │       ├── devices/
@@ -133,74 +141,29 @@ Iconography/
 │   └── misc/
 │       ├── icns/
 │       └── png/
-├── new/
-│   ├── keyboard maestro/
-│   ├── png/
-│   └── svg/
+├── packs/
+│   ├── azure/
+│   ├── bitwarden/
+│   ├── browsers/
+│   ├── cursor/
+│   ├── fluent/
+│   ├── kb-maestro-actions/
+│   ├── material/
+│   ├── raycast/
+│   └── spotify/
 ├── plain/
 │   ├── boxicons/
-│   │   ├── logos/
-│   │   ├── regular/
-│   │   └── svg/
 │   ├── brew/
-│   │   └── svg/
 │   ├── car-badges/
-│   │   ├── png/
-│   │   └── svg/
 │   ├── coolicons/
-│   │   ├── coolicons.iconjar/
-│   │   ├── png/
-│   │   └── svg/
-│   ├── ext/
 │   ├── feather/
-│   │   └── svg/
 │   ├── font-awesome/
-│   │   ├── brands/
-│   │   ├── regular/
-│   │   └── solid/
-│   ├── line/
-│   ├── logos/
-│   │   ├── png/
-│   │   └── svg/
 │   ├── lucide/
-│   ├── misc/
 │   ├── octicons/
-│   │   └── svg/
-│   ├── papirus/
-│   │   ├── actions/
-│   │   └── devices/
-│   ├── programming/
 │   ├── remix/
-│   │   ├── arrows/
-│   │   ├── buildings/
-│   │   ├── business/
-│   │   ├── communication/
-│   │   ├── design/
-│   │   ├── development/
-│   │   ├── device/
-│   │   ├── document/
-│   │   ├── editor/
-│   │   ├── finance/
-│   │   ├── food/
-│   │   ├── health & medical/
-│   │   ├── logos/
-│   │   ├── map/
-│   │   ├── media/
-│   │   ├── others/
-│   │   ├── system/
-│   │   ├── user & faces/
-│   │   └── weather/
 │   ├── rpg-awesome/
-│   ├── services/
 │   ├── simple/
-│   ├── social-media/
-│   ├── tabler/
-│   │   ├── png/
-│   │   └── svg/
-│   ├── teal/
-│   │   └── svg/
-│   ├── txt/
-│   └── web/
+│   └── tabler/
 └── utilities/
     ├── applications/
     │   ├── App Icon Generator.app/
@@ -210,22 +173,11 @@ Iconography/
     │   ├── Iconize.app/
     │   ├── Image2Icon.app/
     │   ├── Mac ICNS Creator.app/
-    │   ├── Pichon.app/
     │   └── macOS Icons.app/
     ├── folders/
-    │   ├── extra/
     │   ├── icns/
-    │   ├── pizza/
     │   ├── png/
-    │   ├── star/
     │   └── svg/
-    ├── keyboard-maestro-actions/
-    │   ├── files/
-    │   ├── png/
-    │   ├── svg/
-    │   ├── system/
-    │   ├── text/
-    │   └── visibility/
     └── scripts/
         ├── library/
         └── shared/
@@ -254,6 +206,11 @@ Iconography/
 | **Design** | 45+ | Figma, Adobe suite, Sketch, Canva... | <img src="color/library/design/canva.png" width="38" height="38" alt="Canva"> <img src="color/library/design/figma.png" width="38" height="38" alt="Figma"> <img src="color/library/design/sketch.png" width="38" height="38" alt="Sketch"> <img src="color/library/design/inkscape.png" width="38" height="38" alt="Inkscape"> <img src="color/library/design/gimp.png" width="38" height="38" alt="GIMP"> <img src="color/library/design/photoshop.png" width="38" height="38" alt="Photoshop"> |
 | **Crypto** | 39+ | Bitcoin, Ethereum, Solana, wallets... | <img src="color/library/crypto/btc.png" width="38" height="38" alt="Bitcoin"> <img src="color/library/crypto/sol.png" width="38" height="38" alt="Solana"> <img src="color/library/crypto/eth.png" width="38" height="38" alt="Ethereum"> <img src="color/library/crypto/matic.png" width="38" height="38" alt="Polygon"> <img src="color/library/crypto/doge.png" width="38" height="38" alt="Dogecoin"> <img src="color/library/crypto/coinbase.png" width="38" height="38" alt="Coinbase"> |
 | **OS** | 109 | Operating system icons | <img src="color/distros/refind/os_linux.png" width="38" height="38" alt="Linux"> <img src="color/distros/refind/os_windows.png" width="38" height="38" alt="Windows"> <img src="color/distros/refind/os_ubuntu.png" width="38" height="38" alt="Ubuntu"> <img src="color/distros/refind/os_arch.png" width="38" height="38" alt="Arch Linux"> <img src="color/distros/refind/os_debian.png" width="38" height="38" alt="Debian"> <img src="color/distros/refind/os_manjaro.png" width="38" height="38" alt="Fedora"> |
+| **Audio** | 500+ | Music, media, and hardware icons | <img src="color/category/audio/airpods-icon.png" width="38" height="38" alt="AirPods"> <img src="color/category/audio/audio-playlist-icon.png" width="38" height="38" alt="Playlist"> <img src="color/category/audio/audio-tune-icon.png" width="38" height="38" alt="Tune"> <img src="color/category/audio/dual-speaker-sound-icon.png" width="38" height="38" alt="Speakers"> <img src="color/category/audio/bluray-disc-icon.png" width="38" height="38" alt="Blu-ray"> <img src="color/category/audio/clef-music-notes-icon.png" width="38" height="38" alt="Clef"> |
+| **Food & Drink** | 400+ | Food, beverages, and organic signs | <img src="color/category/food & drink/avocado-fruit-icon.png" width="38" height="38" alt="Avocado"> <img src="color/category/food & drink/beer-glass-mug-icon.png" width="38" height="38" alt="Beer"> <img src="color/category/food & drink/bubble-tea-icon.png" width="38" height="38" alt="Bubble Tea"> <img src="color/category/food & drink/cheese-piece-icon.png" width="38" height="38" alt="Cheese"> <img src="color/category/food & drink/cocktail-glass-icon.png" width="38" height="38" alt="Cocktail"> <img src="color/category/food & drink/coffee-bean-icon.png" width="38" height="38" alt="Coffee"> |
+| **Nature** | 300+ | Plants, environment, and earth icons | <img src="color/category/nature/cactus-plant-icon.png" width="38" height="38" alt="Cactus"> <img src="color/category/nature/coconut-tree-color-icon.png" width="38" height="38" alt="Palm"> <img src="color/category/nature/earth-environment-care-icon.png" width="38" height="38" alt="Earth Care"> <img src="color/category/nature/flower-bloom-color-icon.png" width="38" height="38" alt="Flower"> <img src="color/category/nature/clover-icon.png" width="38" height="38" alt="Clover"> <img src="color/category/nature/autumn-leaf-icon.png" width="38" height="38" alt="Leaf"> |
+| **Weather** | 200+ | Meteorological and seasonal icons | <img src="color/category/weather/cloud-rain-color-icon.png" width="38" height="38" alt="Rain"> <img src="color/category/weather/cloud-rainbow-color-icon.png" width="38" height="38" alt="Rainbow"> <img src="color/category/weather/cloud-snow-color-icon.png" width="38" height="38" alt="Snow"> <img src="color/category/weather/day-sunny-color-icon.png" width="38" height="38" alt="Sunny"> <img src="color/category/weather/cloud-fog-color-icon.png" width="38" height="38" alt="Fog"> <img src="color/category/weather/cloud-lightning-color-icon.png" width="38" height="38" alt="Storm"> |
+| **Brands** | 2,000+ | Global brand and corporate logos | <img src="color/category/brands/adidas-icon.png" width="38" height="38" alt="Adidas"> <img src="color/category/brands/adobe-icon.png" width="38" height="38" alt="Adobe"> <img src="color/category/brands/1password-icon.png" width="38" height="38" alt="1Password"> <img src="color/category/brands/acer-logo-icon.png" width="38" height="38" alt="Acer"> <img src="color/category/brands/7-eleven-logo-icon.png" width="38" height="38" alt="7-Eleven"> <img src="color/category/brands/admob-icon.png" width="38" height="38" alt="AdMob"> |
 | **Misc** | Various | Miscellaneous icons | <img src="color/library/software/kfc2.png" width="38" height="38" alt="KFC"> <img src="color/library/software/dominos.png" width="38" height="38" alt="Domino's"> <img src="color/library/software/wendys.png" width="38" height="38" alt="Wendy's"> <img src="color/library/software/tanstack.png" width="38" height="38" alt="TanStack"> <img src="color/library/software/pepsi.png" width="38" height="38" alt="Pepsi"> <img src="color/library/software/electric-guitar.png" width="38" height="38" alt="Electric Guitar"> |
 
 
