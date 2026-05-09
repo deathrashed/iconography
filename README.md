@@ -385,17 +385,17 @@ Curated action icons organized for Keyboard Maestro macros:
 - **File actions** - File management and development workflow icons
 - **System actions** - Terminal, editor, and system action icons
 
-See [`utilities/keyboard-maestro-actions/README.md`](utilities/keyboard-maestro-actions/README.md) for details.
+See [`packs/kb-maestro-actions/README.md`](packs/kb-maestro-actions/README.md) for details.
 
 ##  <img src="misc/nuclear.png" width="" height="28" alt="Nuclear"> Tips
 
 - **High-resolution PNGs** are in `color/library/png/` — great for presentations
-  - Example: <img src="color/library/developer/nodejs.png" width="16" height="16" alt="Node.js PNG"> [Node.js PNG](color/library/png/developer/nodejs.png)
+  - Example: <img src="color/library/developer/nodejs.png" width="16" height="16" alt="Node.js PNG"> [Node.js PNG](color/library/developer/nodejs.png)
 - **macOS folder icons** work best in `.icns` format from `macos/folders/`
   - Example: <img src="macos/folders/branded/png/python.png" width="16" height="16" alt="Python Folder"> [Python Folder](macos/folders/branded/png/python.png)
 - **Brand logos** in SVG format are in `plain/simple/` for perfect scaling
   - Examples: <img src="plain/simple/kubernetes.svg" width="16" height="16" alt="Kubernetes"> <img src="plain/simple/tailwindcss.svg" width="16" height="16" alt="Tailwind"> <img src="plain/simple/redis.svg" width="16" height="16" alt="Redis">
-- **Linux icon themes** in `linux/` can be used for desktop customization
+- **Linux icon themes** in `color/distros/` can be used for desktop customization
 - **Dark mode variants** are available in `*/dark/` subdirectories where applicable
 - **Use included scripts** for batch processing and format conversion
 - **AI icons** available in multiple styles: <img src="color/ai/svg/colorful/chatgpt.svg" width="20" height="" alt="ChatGPT"> <img src="color/ai/svg/colorful/claude.svg" width="20" height="" alt="Claude"> <img src="color/ai/svg/colorful/copilot.svg" width="20" height="" alt="Copilot">
