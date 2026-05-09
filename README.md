@@ -33,7 +33,6 @@ This is a comprehensive collection of 70,000+ icons for developers, designers, a
 Iconography/
 ├── _new/
 ├── color/
-│   │   ├── AI/
 │   ├── ai/
 │   │   ├── png/
 │   │   ├── svg/
