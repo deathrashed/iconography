@@ -1,0 +1,23 @@
+{
+  "name": "iconify-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "iconify-download": "./scripts/download-repo.js",
+    "iconify-add": "./scripts/add-icon.js",
+    "iconify-pack": "./scripts/download-pack.js",
+    "iconify-link": "./scripts/gen-link.js",
+    "iconify-list": "./scripts/list-packs.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@iconify/tools": "^5.0.11"
+  }
+}
