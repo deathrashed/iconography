@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 96 96"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="system-switch-user.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="8.3333333"
+     inkscape:cx="47.94"
+     inkscape:cy="47.94"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <circle
+     style="opacity:0.2;fill:#000000;stroke-width:1.5"
+     id="path1"
+     cx="48"
+     cy="49"
+     r="42" />
+  <circle
+     style="fill:#3f51b5;fill-opacity:1;stroke-width:1.5"
+     id="path2"
+     cx="48"
+     cy="48"
+     r="42" />
+  <path
+     id="path3"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:1.5"
+     d="M 48,6 A 42,42 0 0 0 6,48 42,42 0 0 0 6.0351562,48.503906 42,42 0 0 1 48,7 42,42 0 0 1 89.982422,48.267578 42,42 0 0 0 90,48 42,42 0 0 0 48,6 Z" />
+  <path
+     id="path4"
+     style="opacity:0.2;stroke-width:3"
+     d="M 63.5 19 C 61.229515 19 58.95902 20.47143 59 23.412109 L 59 58 L 48.5 58 L 63.5 77.5 L 78.5 58 L 68 58 L 68 23.412109 C 68.040983 20.47143 65.770485 19 63.5 19 z M 32.5 20.5 L 17.5 40 L 28 40 L 28 74.587891 C 27.91804 80.46925 37.081963 80.46925 37 74.587891 L 37 40 L 47.5 40 L 32.5 20.5 z " />
+  <path
+     id="path5"
+     style="fill:#ffffff;stroke-width:3"
+     d="M 63.5 18 C 61.229515 18 58.95902 19.47143 59 22.412109 L 59 57 L 48.5 57 L 63.5 76.5 L 78.5 57 L 68 57 L 68 22.412109 C 68.040983 19.47143 65.770485 18 63.5 18 z M 32.5 19.5 L 17.5 39 L 28 39 L 28 73.587891 C 27.91804 79.46925 37.081963 79.46925 37 73.587891 L 37 39 L 47.5 39 L 32.5 19.5 z " />
+</svg>

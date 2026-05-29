@@ -1,0 +1,4 @@
+build/
+*.temp
+template.svg
+__pycache__/

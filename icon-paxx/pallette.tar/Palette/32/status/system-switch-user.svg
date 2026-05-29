@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="system-switch-user.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="25"
+     inkscape:cx="15.98"
+     inkscape:cy="15.98"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <circle
+     style="opacity:0.2"
+     cx="16"
+     cy="17"
+     r="14"
+     id="circle1" />
+  <circle
+     style="fill:#3f51b5;fill-opacity:1"
+     cx="16"
+     cy="16"
+     r="14"
+     id="circle2" />
+  <path
+     style="opacity:0.2;fill:#ffffff"
+     d="M 16,2 A 14,14 0 0 0 2,16 14,14 0 0 0 2.0214844,16.585938 14,14 0 0 1 16,3 14,14 0 0 1 29.978516,16.414062 14,14 0 0 0 30,16 14,14 0 0 0 16,2 Z"
+     id="path6" />
+  <path
+     id="path2"
+     style="opacity:0.2"
+     d="M 21.5,7 C 20.743171,7 19.98634,7.4904756 20,8.4707031 V 20 h -3.5 l 5,6.5 5,-6.5 H 23 V 8.4707031 C 23.013661,7.4904756 22.256829,7 21.5,7 Z m -10,0.5 -5,6.5 H 10 v 11.529297 c -0.02732,1.960455 3.027321,1.960455 3,0 V 14 h 3.5 z" />
+  <path
+     id="path3"
+     style="fill:#ffffff"
+     d="M 21.5,6 C 20.743171,6 19.98634,6.4904756 20,7.4707031 V 19 h -3.5 l 5,6.5 5,-6.5 H 23 V 7.4707031 C 23.013661,6.4904756 22.256829,6 21.5,6 Z m -10,0.5 -5,6.5 H 10 v 11.529297 c -0.02732,1.960455 3.027321,1.960455 3,0 V 13 h 3.5 z" />
+</svg>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="microphone-sensitivity-muted.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="51.9375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     id="path302"
+     style="opacity:0.35;fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 6,0 C 5.2173986,0 4.5080816,0.3002796 3.9746094,0.7890625 L 5.3945312,2.2089844 C 5.5628597,2.0801445 5.7707047,2 6,2 6.553998,2 7,2.4460018 7,3 v 0.8144531 l 2,2 V 3 C 9,1.3400051 7.659995,0 6,0 Z M 1.53125,0.4707031 0.4707031,1.53125 3,4.0605469 V 8 c 0,1.659995 1.3400051,3 3,3 1.071272,0 2.006729,-0.560089 2.537109,-1.402344 l 0.72461,0.72461 C 8.542392,11.340591 7.358548,12 6,12 3.7700066,12 2,10.229994 2,8 H 0 c 0,2.969991 2.1600084,5.430159 5,5.910156 V 16 h 2 v -2.089844 c 1.484296,-0.250867 2.77907,-1.046434 3.679688,-2.169922 l 3.791015,3.791016 1.060547,-1.0625 z M 5,6.060547 6.996094,8.056641 C 6.966464,8.583649 6.534676,9 6,9 5.4460018,9 5,8.553998 5,8 Z M 11.1875,8 11.949219,8.763672 C 11.98108,8.513437 12,8.25896 12,8 Z" />
+  <circle
+     style="opacity:0.35;fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     id="path424"
+     cx="14"
+     cy="4"
+     r="1" />
+  <circle
+     style="opacity:0.35;fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     id="path426"
+     cx="14"
+     cy="8"
+     r="1" />
+</svg>

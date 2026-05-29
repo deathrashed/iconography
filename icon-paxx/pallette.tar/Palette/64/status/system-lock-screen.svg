@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="system-lock-screen.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="11.390625"
+     inkscape:cx="31.912209"
+     inkscape:cy="31.912209"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <circle
+     style="opacity:0.2;fill:#000000"
+     id="path1"
+     cx="32"
+     cy="33"
+     r="28" />
+  <circle
+     style="fill:#ff5722;fill-opacity:1"
+     id="path2"
+     cx="32"
+     cy="32"
+     r="28" />
+  <path
+     id="path3"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1"
+     d="M 32,4 A 28,28 0 0 0 4,32 28,28 0 0 0 4.0351562,32.5 28,28 0 0 1 32,5 28,28 0 0 1 59.982422,32.251953 28,28 0 0 0 60,32 28,28 0 0 0 32,4 Z" />
+  <path
+     id="rect1"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:2"
+     d="m 32,13 c -6.64798,0 -12,5.35202 -12,12 v 4 h -2 c -1.107998,0 -2,0.892004 -2,2 v 20 c 0,1.107996 0.892002,2 2,2 h 28 c 1.107996,0 2,-0.892004 2,-2 V 31 c 0,-1.107996 -0.892004,-2 -2,-2 H 44 V 25 C 44,18.35202 38.647982,13 32,13 Z m 0,4 c 4.431988,0 8,3.568012 8,8 v 4 H 24 v -4 c 0,-4.431988 3.568012,-8 8,-8 z" />
+  <path
+     id="rect2"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:2"
+     d="M 32 12 C 25.352013 12 20 17.352013 20 24 L 20 28 L 18 28 C 16.892001 28 16 28.892001 16 30 L 16 50 C 16 51.107999 16.892001 52 18 52 L 46 52 C 47.107999 52 48 51.107999 48 50 L 48 30 C 48 28.892001 47.107999 28 46 28 L 44 28 L 44 24 C 44 17.352013 38.647987 12 32 12 z M 32 16 C 36.431992 16 40 19.568008 40 24 L 40 28 L 24 28 L 24 24 C 24 19.568008 27.568008 16 32 16 z " />
+</svg>

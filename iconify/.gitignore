@@ -2,6 +2,10 @@
 .DS_Store
 ._*
 
+# Local agent/session state and stray zero-byte filesystem artifacts
+.omg/
+Icon?
+
 # Logs and temporary files
 *.log
 *.tmp
@@ -28,6 +32,7 @@ _iconify-tools/my-icons/dist/
 _iconify-tools/my-icons/build/
 _iconify-tools/my-icons/coverage/
 _iconify-tools/my-icons/.cache/
+_iconify-tools/my-icons/json/
 
 # Local editor and environment files
 .idea/

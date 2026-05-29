@@ -1072,7 +1072,7 @@ This repository includes the downloaded icon packs, a local Iconify tooling work
 | `_iconify-tools/my-icons/` | Local Iconify icon-set workspace and generated/custom icon data. |
 | `_iconify-tools/node_modules/` | Installed dependencies; regenerate with `npm install` inside `_iconify-tools/` when needed. |
 
-The important hand-editable files are the package metadata, the scripts, and the tool README. `node_modules` is dependency output and should not be committed.
+The important hand-editable files are the package metadata, the scripts, and the tool README. `node_modules` and generated `_iconify-tools/my-icons/json/` output are dependency/build artifacts and should not be committed.
 
 </details>
 
