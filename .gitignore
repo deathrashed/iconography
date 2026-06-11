@@ -123,3 +123,4 @@ ehthumbs.db
 .idea/
 /.cursor
 .cursor
+IconCache.sqlite
