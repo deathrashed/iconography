@@ -1,0 +1,6 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(122.54 60.354)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="16.354" y="78.537" width="40" height="40" rx="2" ry="2" fill="#4383c3"/>
+  <path d="m-98.537-40.354c0-3-2-10 7-10 9 0 9 14 0 14h-14c-9 0-9 14 0 14 9 0 7.0414-8 7-10" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="4"/>
+ </g>
+</svg>

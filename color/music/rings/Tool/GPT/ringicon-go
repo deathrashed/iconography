@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+BIN="$DIR/go-ringicon/ringicon-go"
+SRC="$DIR/go-ringicon/main.go"
+if [[ ! -x "$BIN" || "$SRC" -nt "$BIN" ]]; then
+  go -C "$DIR/go-ringicon" build -o "$BIN" .
+fi
+exec "$BIN" "$@"

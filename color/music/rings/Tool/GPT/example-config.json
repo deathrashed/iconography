@@ -1,0 +1,13 @@
+{
+  "size": 1000,
+  "padding": 24,
+  "zoom": 1.25,
+  "cropX": -40,
+  "cropY": 20,
+  "cropMode": "Fill",
+  "rings": [
+    { "color": "#111111", "width": 12, "gap": 0, "opacity": 1, "enabled": true },
+    { "color": "#f7f7f2", "width": 38, "gap": 0, "opacity": 1, "enabled": true }
+  ],
+  "supersample": 3
+}

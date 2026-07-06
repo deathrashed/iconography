@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="22"
+   width="22"
+   version="1"
+   id="svg17"
+   sodipodi:docname="folder_custom.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-x="38"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg17" />
+  <defs
+     id="defs3">
+    <style
+       type="text/css"
+       id="folder-color-scheme">
+   .FolderColorScheme-Light { color:#value_light; } .FolderColorScheme-Middle { color:#value_middle; } .FolderColorScheme-Dark { color:#value_dark; }
+  </style>
+  </defs>
+  <path
+     style="opacity:1;fill:#333333;fill-opacity:1"
+     d="M 2 2 C 1.44941 1.9388 1 2.44601 1 3 L 1 3.5 L 1 17 L 1 18.5 L 1 19 L 1 19.5 C 1 20.05399 1.44601 20.5 2 20.5 L 20 20.5 C 20.55399 20.5 21 20.05399 21 19.5 L 21 19 L 21 9.5 L 21 5.5 L 21 5 C 21 4.00002 20.050781 4 20.050781 4 L 9 4 C 9 2.80093 9 1.99977 8 2 L 2 2 z "
+     id="path5" />
+</svg>

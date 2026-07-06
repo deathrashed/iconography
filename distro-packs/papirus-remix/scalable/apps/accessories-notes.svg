@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="48"
+   width="48"
+   version="1"
+   id="svg14"
+   sodipodi:docname="accessories-notes.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1242"
+     inkscape:window-height="773"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="2.6791992"
+     inkscape:cx="-37.725832"
+     inkscape:cy="58.450659"
+     inkscape:window-x="38"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <g
+     transform="translate(0,1)"
+     id="g830-3">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#93a5a5"
+       id="path2-6"
+       d="M 6,3 C 4.892,3 4,3.892 4,5 v 36 c 0,1.108 0.892,2 2,2 H 28 L 44,27 V 5 C 44,3.892 43.108,3 42,3 Z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4-7"
+       d="M 44,27 H 30 c -1.1046,0 -2,0.89544 -2,2 v 14 z"
+       style="fill:#eef3f6;enable-background:new" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path12-5"
+       d="m 15,26 v -2 h 12 v 2 z m 0,-4 v -2 h 18 v 2 z m 0,-4 v -2 h 18 v 2 z m 0,-4 v -2 h 18 v 2 z"
+       style="opacity:1;fill:#eef3f6;enable-background:new" />
+  </g>
+</svg>

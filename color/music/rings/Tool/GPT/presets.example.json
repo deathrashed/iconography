@@ -1,0 +1,18 @@
+{
+  "custom": {
+    "single-orange": {
+      "name": "single-orange",
+      "rings": [
+        { "color": "orange", "width": 32, "gap": 0, "opacity": 1, "enabled": true }
+      ]
+    },
+    "black-green-black": {
+      "name": "black-green-black",
+      "rings": [
+        { "color": "black", "width": 8, "gap": 0, "opacity": 1, "enabled": true },
+        { "color": "green", "width": 24, "gap": 0, "opacity": 1, "enabled": true },
+        { "color": "black", "width": 8, "gap": 0, "opacity": 1, "enabled": true }
+      ]
+    }
+  }
+}
