@@ -8,12 +8,13 @@
   <img src="https://img.shields.io/badge/Icons-589,000+-5700d2?style=for-the-badge&labelColor=1e1e1e" alt="Total Icons">
   <img src="https://img.shields.io/badge/Formats-PNG%20%7C%20SVG%20%7C%20ICNS-b2005a?style=for-the-badge&labelColor=1e1e1e" alt="Formats">
   <img src="https://img.shields.io/badge/Iconify-226%20Sets-5700d2?style=for-the-badge&labelColor=1e1e1e" alt="Iconify">
-  <img src="https://img.shields.io/badge/macOS-Ready-b2005a?style=for-the-badge&logo=apple&logoColor=white&labelColor=1e1e1e" alt="macOS">
+  <img src="https://img.shields.io/badge/macOS-Ready-b2005a?style=for-the-badge&logoColor=white&labelColor=1e1e1e" alt="macOS">
   <img src="https://img.shields.io/badge/Spinners-SVG%20%7C%20Meteocons-5700d2?style=for-the-badge&labelColor=1e1e1e" alt="Spinners">
-  <img src="https://img.shields.io/badge/Apple-SF%20Symbols-b2005a?style=for-the-badge&logo=apple&labelColor=1e1e1e" alt="SF Symbols">
+  <img src="https://img.shields.io/badge/Apple-SF%20Symbols-b2005a?style=for-the-badge&labelColor=1e1e1e" alt="SF Symbols">
   <img src="https://img.shields.io/badge/RingIcon-CLI%20%2B%20TUI-5700d2?style=for-the-badge&labelColor=1e1e1e" alt="RingIcon">
   <img src="https://img.shields.io/badge/License-WTFPL-b2005a?style=for-the-badge&labelColor=1e1e1e" alt="WTFPL License">
 </p>
+
 
 <p align="center">
   A comprehensive collection of <strong>589,000+ icons</strong> spanning color PNGs, monochrome SVG sets, macOS ICNS assets, animated SVG spinners, Meteocons weather animations, Apple SF Symbols, heavy metal band logos, music emblem rings, and 226 icon set collections via the Iconify API submodule. Includes native macOS desktop apps and specialized CLI/TUI utilities like <strong>ringicon</strong> for creating album art ring icons.

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RingIcon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+164ca559a3dc24340323cca47b0cf997ccbe9c2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b77f670091a53de8b8175bd46aee62cb7e6ed9ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("RingIcon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RingIcon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

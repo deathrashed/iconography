@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/Apfspace/Icons/color/music/rings/tool/gpt/src/RingIcon/RingIcon.csproj": {}
+    "/Volumes/Apfspace/Icons/color/music/rings/Tool/GPT/src/RingIcon/RingIcon.csproj": {}
   },
   "projects": {
-    "/Volumes/Apfspace/Icons/color/music/rings/tool/gpt/src/RingIcon/RingIcon.csproj": {
+    "/Volumes/Apfspace/Icons/color/music/rings/Tool/GPT/src/RingIcon/RingIcon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Apfspace/Icons/color/music/rings/tool/gpt/src/RingIcon/RingIcon.csproj",
+        "projectUniqueName": "/Volumes/Apfspace/Icons/color/music/rings/Tool/GPT/src/RingIcon/RingIcon.csproj",
         "projectName": "RingIcon",
-        "projectPath": "/Volumes/Apfspace/Icons/color/music/rings/tool/gpt/src/RingIcon/RingIcon.csproj",
+        "projectPath": "/Volumes/Apfspace/Icons/color/music/rings/Tool/GPT/src/RingIcon/RingIcon.csproj",
         "packagesPath": "/Users/rd/.cache/NuGetPackages",
-        "outputPath": "/Volumes/Apfspace/Icons/color/music/rings/tool/gpt/src/RingIcon/obj/",
+        "outputPath": "/Volumes/Apfspace/Icons/color/music/rings/Tool/GPT/src/RingIcon/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rd/.local/share/dotnet/.nuget/NuGet/NuGet.Config"
