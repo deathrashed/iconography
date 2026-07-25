@@ -1,4 +1,4 @@
-<img src="utilities/assets/graf-banner2.png" alt="Pupil" width="">
+https://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl.svg<img src="utilities/assets/graf-banner2.png" alt="Pupil" width="">
 <br>
 
 # Iconography
@@ -6,9 +6,9 @@
 ![Total Icons](https://img.shields.io/badge/Icons-589,000+-5700d2?style=for-the-badge&labelColor=1e1e1e)
 ![Formats](https://img.shields.io/badge/Formats-PNG%20%7C%20SVG%20%7C%20ICNS-b2005a?style=for-the-badge&labelColor=1e1e1e)
 ![Iconify](https://img.shields.io/badge/Iconify-226%20Sets-5700d2?style=for-the-badge&labelColor=1e1e1e)
-![macOS](https://img.shields.io/badge/macOS-Ready-b2005a?style=for-the-badge&logo=apple&logoColor=white&labelColor=1e1e1e)
+![macOS](https://img.shields.io/badge/macOS-Ready-b2005a?style=for-the-badge&labelColor=1e1e1e)
 ![Spinners](https://img.shields.io/badge/Spinners-SVG%20%7C%20Meteocons-5700d2?style=for-the-badge&labelColor=1e1e1e)
-![SF Symbols](https://img.shields.io/badge/Apple-SF%20Symbols-b2005a?style=for-the-badge&logo=apple&labelColor=1e1e1e)
+![SF Symbols](https://img.shields.io/badge/Apple-SF%20Symbols-b2005a?style=for-the-badge&labelColor=1e1e1e)
 ![RingIcon](https://img.shields.io/badge/RingIcon-CLI%20%2B%20TUI-5700d2?style=for-the-badge&labelColor=1e1e1e)
 ![License](https://img.shields.io/badge/License-WTFPL-b2005a?style=for-the-badge&labelColor=1e1e1e)
 
@@ -552,15 +552,14 @@ Templates and base assets in `icns/`, `png/`, and `svg/` for creating custom fol
 
 ---
 
-## 📜 License
+## <img src="https://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl.svg" width="" height="28" alt="Nuclear"> License
 
-This repository is licensed under the **[WTFPL (Do What The Fuck You Want To Public License)](LICENSE)**.
+This repository is licensed under the **[WTFPL (Do What The Fuck You Want To Public License)](LICENSE)**.  [![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)](http://www.wtfpl.net/)
 
 ---
 
 <div align="center">
 *Collected and organized for quick access*
-
 **<img src="misc/login.png" width="" height="35" alt="Log">**
 
 </div>
