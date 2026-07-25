@@ -10,6 +10,7 @@
 ![Spinners](https://img.shields.io/badge/Spinners-SVG%20%7C%20Meteocons-5700d2?style=for-the-badge&labelColor=1e1e1e)
 ![SF Symbols](https://img.shields.io/badge/Apple-SF%20Symbols-b2005a?style=for-the-badge&logo=apple&labelColor=1e1e1e)
 ![RingIcon](https://img.shields.io/badge/RingIcon-CLI%20%2B%20TUI-5700d2?style=for-the-badge&labelColor=1e1e1e)
+![License](https://img.shields.io/badge/License-WTFPL-b2005a?style=for-the-badge&labelColor=1e1e1e)
 
 **A curated collection of 589,000+ icons for developers, designers, and power users**
 
@@ -546,6 +547,14 @@ Templates and base assets in `icns/`, `png/`, and `svg/` for creating custom fol
 - **Brand & Heavy Metal Band logos** in `category/brands/` and `color/music/band-logos/png/`
 - **Animated loaders & weather icons** in `iconify/svg-spinners/` and `iconify/meteocons/`
 - **Use included desktop apps** in `utilities/applications/` or CLI scripts in `utilities/scripts/` for quick batch conversion.
+
+
+
+---
+
+## 📜 License
+
+This repository is licensed under the **[WTFPL (Do What The Fuck You Want To Public License)](LICENSE)**.
 
 ---
 
