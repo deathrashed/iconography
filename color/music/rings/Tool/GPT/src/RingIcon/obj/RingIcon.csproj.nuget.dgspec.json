@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/Apfspace/Icons/color/music/rings/Tool/GPT/src/RingIcon/RingIcon.csproj": {}
+    "/Volumes/Apfspace/Icons/color/music/rings/tool/gpt/src/RingIcon/RingIcon.csproj": {}
   },
   "projects": {
-    "/Volumes/Apfspace/Icons/color/music/rings/Tool/GPT/src/RingIcon/RingIcon.csproj": {
+    "/Volumes/Apfspace/Icons/color/music/rings/tool/gpt/src/RingIcon/RingIcon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Apfspace/Icons/color/music/rings/Tool/GPT/src/RingIcon/RingIcon.csproj",
+        "projectUniqueName": "/Volumes/Apfspace/Icons/color/music/rings/tool/gpt/src/RingIcon/RingIcon.csproj",
         "projectName": "RingIcon",
-        "projectPath": "/Volumes/Apfspace/Icons/color/music/rings/Tool/GPT/src/RingIcon/RingIcon.csproj",
+        "projectPath": "/Volumes/Apfspace/Icons/color/music/rings/tool/gpt/src/RingIcon/RingIcon.csproj",
         "packagesPath": "/Users/rd/.cache/NuGetPackages",
-        "outputPath": "/Volumes/Apfspace/Icons/color/music/rings/Tool/GPT/src/RingIcon/obj/",
+        "outputPath": "/Volumes/Apfspace/Icons/color/music/rings/tool/gpt/src/RingIcon/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rd/.local/share/dotnet/.nuget/NuGet/NuGet.Config"
@@ -20,7 +20,7 @@
           "net10.0"
         ],
         "sources": {
-          "/opt/homebrew/Cellar/dotnet/10.0.301/libexec/library-packs": {},
+          "/opt/homebrew/Cellar/dotnet/10.0.302/libexec/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/10.0.301/libexec/sdk/10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/10.0.302/libexec/sdk/10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
